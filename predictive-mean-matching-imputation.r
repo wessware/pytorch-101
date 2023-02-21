@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "9e79aea6",
+   "id": "1be6b12e",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:42.408422Z",
-     "iopub.status.busy": "2023-02-21T12:19:42.405039Z",
-     "iopub.status.idle": "2023-02-21T12:19:43.960417Z",
-     "shell.execute_reply": "2023-02-21T12:19:43.958443Z"
+     "iopub.execute_input": "2023-02-21T12:25:51.981953Z",
+     "iopub.status.busy": "2023-02-21T12:25:51.979592Z",
+     "iopub.status.idle": "2023-02-21T12:25:53.531117Z",
+     "shell.execute_reply": "2023-02-21T12:25:53.529228Z"
     },
     "papermill": {
-     "duration": 1.568025,
-     "end_time": "2023-02-21T12:19:43.964070",
+     "duration": 1.563067,
+     "end_time": "2023-02-21T12:25:53.534510",
      "exception": false,
-     "start_time": "2023-02-21T12:19:42.396045",
+     "start_time": "2023-02-21T12:25:51.971443",
      "status": "completed"
     },
     "tags": []
@@ -30,19 +30,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "34edaf5d",
+   "id": "3b1f21f3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:44.005810Z",
-     "iopub.status.busy": "2023-02-21T12:19:43.975072Z",
-     "iopub.status.idle": "2023-02-21T12:19:44.354269Z",
-     "shell.execute_reply": "2023-02-21T12:19:44.352294Z"
+     "iopub.execute_input": "2023-02-21T12:25:53.579805Z",
+     "iopub.status.busy": "2023-02-21T12:25:53.546242Z",
+     "iopub.status.idle": "2023-02-21T12:25:53.934232Z",
+     "shell.execute_reply": "2023-02-21T12:25:53.932329Z"
     },
     "papermill": {
-     "duration": 0.387945,
-     "end_time": "2023-02-21T12:19:44.356842",
+     "duration": 0.397211,
+     "end_time": "2023-02-21T12:25:53.936811",
      "exception": false,
-     "start_time": "2023-02-21T12:19:43.968897",
+     "start_time": "2023-02-21T12:25:53.539600",
      "status": "completed"
     },
     "tags": []
@@ -76,19 +76,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "736a1e8d",
+   "id": "b22b729e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:44.370601Z",
-     "iopub.status.busy": "2023-02-21T12:19:44.368870Z",
-     "iopub.status.idle": "2023-02-21T12:19:46.347630Z",
-     "shell.execute_reply": "2023-02-21T12:19:46.345749Z"
+     "iopub.execute_input": "2023-02-21T12:25:53.950635Z",
+     "iopub.status.busy": "2023-02-21T12:25:53.949032Z",
+     "iopub.status.idle": "2023-02-21T12:25:55.985869Z",
+     "shell.execute_reply": "2023-02-21T12:25:55.983982Z"
     },
     "papermill": {
-     "duration": 1.989207,
-     "end_time": "2023-02-21T12:19:46.350762",
+     "duration": 2.046809,
+     "end_time": "2023-02-21T12:25:55.988847",
      "exception": false,
-     "start_time": "2023-02-21T12:19:44.361555",
+     "start_time": "2023-02-21T12:25:53.942038",
      "status": "completed"
     },
     "tags": []
@@ -126,19 +126,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "bafbc24a",
+   "id": "5503d6b1",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:46.364834Z",
-     "iopub.status.busy": "2023-02-21T12:19:46.362818Z",
-     "iopub.status.idle": "2023-02-21T12:19:46.414024Z",
-     "shell.execute_reply": "2023-02-21T12:19:46.412159Z"
+     "iopub.execute_input": "2023-02-21T12:25:56.004205Z",
+     "iopub.status.busy": "2023-02-21T12:25:56.002064Z",
+     "iopub.status.idle": "2023-02-21T12:25:56.051836Z",
+     "shell.execute_reply": "2023-02-21T12:25:56.050167Z"
     },
     "papermill": {
-     "duration": 0.060857,
-     "end_time": "2023-02-21T12:19:46.416788",
+     "duration": 0.059374,
+     "end_time": "2023-02-21T12:25:56.054151",
      "exception": false,
-     "start_time": "2023-02-21T12:19:46.355931",
+     "start_time": "2023-02-21T12:25:55.994777",
      "status": "completed"
     },
     "tags": []
@@ -250,19 +250,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "f694c21e",
+   "id": "5d369be7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:46.431646Z",
-     "iopub.status.busy": "2023-02-21T12:19:46.430044Z",
-     "iopub.status.idle": "2023-02-21T12:19:46.448540Z",
-     "shell.execute_reply": "2023-02-21T12:19:46.446772Z"
+     "iopub.execute_input": "2023-02-21T12:25:56.069444Z",
+     "iopub.status.busy": "2023-02-21T12:25:56.067887Z",
+     "iopub.status.idle": "2023-02-21T12:25:56.088760Z",
+     "shell.execute_reply": "2023-02-21T12:25:56.086343Z"
     },
     "papermill": {
-     "duration": 0.028036,
-     "end_time": "2023-02-21T12:19:46.450923",
+     "duration": 0.031996,
+     "end_time": "2023-02-21T12:25:56.092031",
      "exception": false,
-     "start_time": "2023-02-21T12:19:46.422887",
+     "start_time": "2023-02-21T12:25:56.060035",
      "status": "completed"
     },
     "tags": []
@@ -352,19 +352,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "15b55571",
+   "id": "1d0aa9aa",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:46.465964Z",
-     "iopub.status.busy": "2023-02-21T12:19:46.464414Z",
-     "iopub.status.idle": "2023-02-21T12:19:46.480547Z",
-     "shell.execute_reply": "2023-02-21T12:19:46.478670Z"
+     "iopub.execute_input": "2023-02-21T12:25:56.107330Z",
+     "iopub.status.busy": "2023-02-21T12:25:56.105737Z",
+     "iopub.status.idle": "2023-02-21T12:25:56.120965Z",
+     "shell.execute_reply": "2023-02-21T12:25:56.119266Z"
     },
     "papermill": {
-     "duration": 0.026315,
-     "end_time": "2023-02-21T12:19:46.483129",
+     "duration": 0.02639,
+     "end_time": "2023-02-21T12:25:56.124289",
      "exception": false,
-     "start_time": "2023-02-21T12:19:46.456814",
+     "start_time": "2023-02-21T12:25:56.097899",
      "status": "completed"
     },
     "tags": []
@@ -383,19 +383,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "12e9f441",
+   "id": "8437c588",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:46.497625Z",
-     "iopub.status.busy": "2023-02-21T12:19:46.495909Z",
-     "iopub.status.idle": "2023-02-21T12:19:46.516417Z",
-     "shell.execute_reply": "2023-02-21T12:19:46.514157Z"
+     "iopub.execute_input": "2023-02-21T12:25:56.140052Z",
+     "iopub.status.busy": "2023-02-21T12:25:56.138464Z",
+     "iopub.status.idle": "2023-02-21T12:25:56.156984Z",
+     "shell.execute_reply": "2023-02-21T12:25:56.155059Z"
     },
     "papermill": {
-     "duration": 0.030939,
-     "end_time": "2023-02-21T12:19:46.519589",
+     "duration": 0.029034,
+     "end_time": "2023-02-21T12:25:56.159512",
      "exception": false,
-     "start_time": "2023-02-21T12:19:46.488650",
+     "start_time": "2023-02-21T12:25:56.130478",
      "status": "completed"
     },
     "tags": []
@@ -427,19 +427,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "7f4dca9a",
+   "id": "ab15e0ca",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:46.534221Z",
-     "iopub.status.busy": "2023-02-21T12:19:46.532592Z",
-     "iopub.status.idle": "2023-02-21T12:19:46.569270Z",
-     "shell.execute_reply": "2023-02-21T12:19:46.566978Z"
+     "iopub.execute_input": "2023-02-21T12:25:56.176581Z",
+     "iopub.status.busy": "2023-02-21T12:25:56.174602Z",
+     "iopub.status.idle": "2023-02-21T12:25:56.209800Z",
+     "shell.execute_reply": "2023-02-21T12:25:56.208057Z"
     },
     "papermill": {
-     "duration": 0.047308,
-     "end_time": "2023-02-21T12:19:46.572468",
+     "duration": 0.046595,
+     "end_time": "2023-02-21T12:25:56.212483",
      "exception": false,
-     "start_time": "2023-02-21T12:19:46.525160",
+     "start_time": "2023-02-21T12:25:56.165888",
      "status": "completed"
     },
     "tags": []
@@ -471,19 +471,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "8ca4e443",
+   "id": "81aa0a32",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:46.587415Z",
-     "iopub.status.busy": "2023-02-21T12:19:46.585883Z",
-     "iopub.status.idle": "2023-02-21T12:19:46.603722Z",
-     "shell.execute_reply": "2023-02-21T12:19:46.601983Z"
+     "iopub.execute_input": "2023-02-21T12:25:56.229197Z",
+     "iopub.status.busy": "2023-02-21T12:25:56.227528Z",
+     "iopub.status.idle": "2023-02-21T12:25:56.246402Z",
+     "shell.execute_reply": "2023-02-21T12:25:56.244546Z"
     },
     "papermill": {
-     "duration": 0.028129,
-     "end_time": "2023-02-21T12:19:46.606389",
+     "duration": 0.030225,
+     "end_time": "2023-02-21T12:25:56.249335",
      "exception": false,
-     "start_time": "2023-02-21T12:19:46.578260",
+     "start_time": "2023-02-21T12:25:56.219110",
      "status": "completed"
     },
     "tags": []
@@ -515,19 +515,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "5daa2f0e",
+   "id": "4b1f7268",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:46.623374Z",
-     "iopub.status.busy": "2023-02-21T12:19:46.621559Z",
-     "iopub.status.idle": "2023-02-21T12:19:46.658735Z",
-     "shell.execute_reply": "2023-02-21T12:19:46.656901Z"
+     "iopub.execute_input": "2023-02-21T12:25:56.266188Z",
+     "iopub.status.busy": "2023-02-21T12:25:56.264477Z",
+     "iopub.status.idle": "2023-02-21T12:25:56.302239Z",
+     "shell.execute_reply": "2023-02-21T12:25:56.300376Z"
     },
     "papermill": {
-     "duration": 0.048467,
-     "end_time": "2023-02-21T12:19:46.661523",
+     "duration": 0.048966,
+     "end_time": "2023-02-21T12:25:56.304857",
      "exception": false,
-     "start_time": "2023-02-21T12:19:46.613056",
+     "start_time": "2023-02-21T12:25:56.255891",
      "status": "completed"
     },
     "tags": []
@@ -615,19 +615,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "2f8c50d5",
+   "id": "1c7c06b2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:46.679681Z",
-     "iopub.status.busy": "2023-02-21T12:19:46.678134Z",
-     "iopub.status.idle": "2023-02-21T12:19:53.482603Z",
-     "shell.execute_reply": "2023-02-21T12:19:53.480773Z"
+     "iopub.execute_input": "2023-02-21T12:25:56.321802Z",
+     "iopub.status.busy": "2023-02-21T12:25:56.320305Z",
+     "iopub.status.idle": "2023-02-21T12:26:03.238276Z",
+     "shell.execute_reply": "2023-02-21T12:26:03.235335Z"
     },
     "papermill": {
-     "duration": 6.81732,
-     "end_time": "2023-02-21T12:19:53.485908",
+     "duration": 6.930496,
+     "end_time": "2023-02-21T12:26:03.242173",
      "exception": false,
-     "start_time": "2023-02-21T12:19:46.668588",
+     "start_time": "2023-02-21T12:25:56.311677",
      "status": "completed"
     },
     "tags": []
@@ -1055,19 +1055,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "b7222c6b",
+   "id": "4450143b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:53.506745Z",
-     "iopub.status.busy": "2023-02-21T12:19:53.505273Z",
-     "iopub.status.idle": "2023-02-21T12:19:54.234793Z",
-     "shell.execute_reply": "2023-02-21T12:19:54.233137Z"
+     "iopub.execute_input": "2023-02-21T12:26:03.263968Z",
+     "iopub.status.busy": "2023-02-21T12:26:03.262426Z",
+     "iopub.status.idle": "2023-02-21T12:26:03.989501Z",
+     "shell.execute_reply": "2023-02-21T12:26:03.987612Z"
     },
     "papermill": {
-     "duration": 0.742758,
-     "end_time": "2023-02-21T12:19:54.237794",
+     "duration": 0.740161,
+     "end_time": "2023-02-21T12:26:03.991883",
      "exception": false,
-     "start_time": "2023-02-21T12:19:53.495036",
+     "start_time": "2023-02-21T12:26:03.251722",
      "status": "completed"
     },
     "tags": []
@@ -1629,19 +1629,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "d001fd64",
+   "id": "3d5afb2b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:54.263328Z",
-     "iopub.status.busy": "2023-02-21T12:19:54.261773Z",
-     "iopub.status.idle": "2023-02-21T12:19:55.295639Z",
-     "shell.execute_reply": "2023-02-21T12:19:55.293916Z"
+     "iopub.execute_input": "2023-02-21T12:26:04.017435Z",
+     "iopub.status.busy": "2023-02-21T12:26:04.015861Z",
+     "iopub.status.idle": "2023-02-21T12:26:05.048633Z",
+     "shell.execute_reply": "2023-02-21T12:26:05.046552Z"
     },
     "papermill": {
-     "duration": 1.050325,
-     "end_time": "2023-02-21T12:19:55.299044",
+     "duration": 1.04789,
+     "end_time": "2023-02-21T12:26:05.051495",
      "exception": false,
-     "start_time": "2023-02-21T12:19:54.248719",
+     "start_time": "2023-02-21T12:26:04.003605",
      "status": "completed"
     },
     "tags": []
@@ -1667,19 +1667,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "498573b8",
+   "id": "a3392398",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:19:55.327262Z",
-     "iopub.status.busy": "2023-02-21T12:19:55.325763Z",
-     "iopub.status.idle": "2023-02-21T12:23:59.709758Z",
-     "shell.execute_reply": "2023-02-21T12:23:59.707024Z"
+     "iopub.execute_input": "2023-02-21T12:26:05.079865Z",
+     "iopub.status.busy": "2023-02-21T12:26:05.078270Z",
+     "iopub.status.idle": "2023-02-21T12:30:01.376359Z",
+     "shell.execute_reply": "2023-02-21T12:30:01.373869Z"
     },
     "papermill": {
-     "duration": 244.417087,
-     "end_time": "2023-02-21T12:23:59.728788",
+     "duration": 236.340836,
+     "end_time": "2023-02-21T12:30:01.404886",
      "exception": false,
-     "start_time": "2023-02-21T12:19:55.311701",
+     "start_time": "2023-02-21T12:26:05.064050",
      "status": "completed"
     },
     "tags": []
@@ -1726,19 +1726,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "764a747c",
+   "id": "a9cb32f2",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:23:59.757888Z",
-     "iopub.status.busy": "2023-02-21T12:23:59.756304Z",
-     "iopub.status.idle": "2023-02-21T12:23:59.868121Z",
-     "shell.execute_reply": "2023-02-21T12:23:59.865705Z"
+     "iopub.execute_input": "2023-02-21T12:30:01.439563Z",
+     "iopub.status.busy": "2023-02-21T12:30:01.437665Z",
+     "iopub.status.idle": "2023-02-21T12:30:01.570672Z",
+     "shell.execute_reply": "2023-02-21T12:30:01.567599Z"
     },
     "papermill": {
-     "duration": 0.129143,
-     "end_time": "2023-02-21T12:23:59.870636",
+     "duration": 0.153579,
+     "end_time": "2023-02-21T12:30:01.573717",
      "exception": false,
-     "start_time": "2023-02-21T12:23:59.741493",
+     "start_time": "2023-02-21T12:30:01.420138",
      "status": "completed"
     },
     "tags": []
@@ -1754,12 +1754,12 @@
        "\t<tr><th></th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
        "</thead>\n",
        "<tbody>\n",
-       "\t<tr><th scope=row>1</th><td>13.4</td><td>22.9</td><td>0.6</td><td> 5.6</td><td> 5.7</td><td>44</td><td>20</td><td>24</td><td>71</td><td>22</td><td>1007.7</td><td>1007.1</td><td>8</td><td>2</td><td>16.9</td><td>21.8</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>2</th><td> 7.4</td><td>25.1</td><td>0.0</td><td> 1.4</td><td> 8.4</td><td>44</td><td> 4</td><td>22</td><td>44</td><td>25</td><td>1010.6</td><td>1007.8</td><td>1</td><td>3</td><td>17.2</td><td>24.3</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>3</th><td>12.9</td><td>25.7</td><td>0.0</td><td> 5.4</td><td> 9.9</td><td>46</td><td>19</td><td>26</td><td>38</td><td>30</td><td>1007.6</td><td>1008.7</td><td>1</td><td>2</td><td>21.0</td><td>23.2</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>4</th><td> 9.2</td><td>28.0</td><td>0.0</td><td> 8.0</td><td> 9.2</td><td>24</td><td>11</td><td> 9</td><td>45</td><td>16</td><td>1017.6</td><td>1012.8</td><td>0</td><td>5</td><td>18.1</td><td>26.5</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>5</th><td>17.5</td><td>32.3</td><td>1.0</td><td>10.2</td><td> 7.4</td><td>41</td><td> 7</td><td>20</td><td>82</td><td>33</td><td>1010.8</td><td>1006.0</td><td>7</td><td>8</td><td>17.8</td><td>29.7</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>6</th><td>14.6</td><td>29.7</td><td>0.2</td><td>13.0</td><td>13.0</td><td>56</td><td>19</td><td>24</td><td>55</td><td>23</td><td>1009.2</td><td>1005.4</td><td>0</td><td>2</td><td>20.6</td><td>28.9</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>1</th><td>13.4</td><td>22.9</td><td>0.6</td><td> 5.8</td><td>10.4</td><td>44</td><td>20</td><td>24</td><td>71</td><td>22</td><td>1007.7</td><td>1007.1</td><td>8</td><td>2</td><td>16.9</td><td>21.8</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>2</th><td> 7.4</td><td>25.1</td><td>0.0</td><td> 7.6</td><td>10.0</td><td>44</td><td> 4</td><td>22</td><td>44</td><td>25</td><td>1010.6</td><td>1007.8</td><td>2</td><td>1</td><td>17.2</td><td>24.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>3</th><td>12.9</td><td>25.7</td><td>0.0</td><td> 6.8</td><td>10.5</td><td>46</td><td>19</td><td>26</td><td>38</td><td>30</td><td>1007.6</td><td>1008.7</td><td>7</td><td>2</td><td>21.0</td><td>23.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>4</th><td> 9.2</td><td>28.0</td><td>0.0</td><td>19.7</td><td>11.4</td><td>24</td><td>11</td><td> 9</td><td>45</td><td>16</td><td>1017.6</td><td>1012.8</td><td>2</td><td>0</td><td>18.1</td><td>26.5</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>5</th><td>17.5</td><td>32.3</td><td>1.0</td><td> 4.8</td><td> 8.7</td><td>41</td><td> 7</td><td>20</td><td>82</td><td>33</td><td>1010.8</td><td>1006.0</td><td>7</td><td>8</td><td>17.8</td><td>29.7</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>6</th><td>14.6</td><td>29.7</td><td>0.2</td><td>26.6</td><td>12.0</td><td>56</td><td>19</td><td>24</td><td>55</td><td>23</td><td>1009.2</td><td>1005.4</td><td>1</td><td>0</td><td>20.6</td><td>28.9</td><td>2</td></tr>\n",
        "</tbody>\n",
        "</table>\n"
       ],
@@ -1769,12 +1769,12 @@
        "  & MinTemp & MaxTemp & Rainfall & Evaporation & Sunshine & WindGustSpeed & WindSpeed9am & WindSpeed3pm & Humidity9am & Humidity3pm & Pressure9am & Pressure3pm & Cloud9am & Cloud3pm & Temp9am & Temp3pm & RainTomorrow\\\\\n",
        "  & <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <int> & <int> & <int> & <int> & <int> & <dbl> & <dbl> & <int> & <int> & <dbl> & <dbl> & <int>\\\\\n",
        "\\hline\n",
-       "\t1 & 13.4 & 22.9 & 0.6 &  5.6 &  5.7 & 44 & 20 & 24 & 71 & 22 & 1007.7 & 1007.1 & 8 & 2 & 16.9 & 21.8 & 2\\\\\n",
-       "\t2 &  7.4 & 25.1 & 0.0 &  1.4 &  8.4 & 44 &  4 & 22 & 44 & 25 & 1010.6 & 1007.8 & 1 & 3 & 17.2 & 24.3 & 2\\\\\n",
-       "\t3 & 12.9 & 25.7 & 0.0 &  5.4 &  9.9 & 46 & 19 & 26 & 38 & 30 & 1007.6 & 1008.7 & 1 & 2 & 21.0 & 23.2 & 2\\\\\n",
-       "\t4 &  9.2 & 28.0 & 0.0 &  8.0 &  9.2 & 24 & 11 &  9 & 45 & 16 & 1017.6 & 1012.8 & 0 & 5 & 18.1 & 26.5 & 2\\\\\n",
-       "\t5 & 17.5 & 32.3 & 1.0 & 10.2 &  7.4 & 41 &  7 & 20 & 82 & 33 & 1010.8 & 1006.0 & 7 & 8 & 17.8 & 29.7 & 2\\\\\n",
-       "\t6 & 14.6 & 29.7 & 0.2 & 13.0 & 13.0 & 56 & 19 & 24 & 55 & 23 & 1009.2 & 1005.4 & 0 & 2 & 20.6 & 28.9 & 2\\\\\n",
+       "\t1 & 13.4 & 22.9 & 0.6 &  5.8 & 10.4 & 44 & 20 & 24 & 71 & 22 & 1007.7 & 1007.1 & 8 & 2 & 16.9 & 21.8 & 2\\\\\n",
+       "\t2 &  7.4 & 25.1 & 0.0 &  7.6 & 10.0 & 44 &  4 & 22 & 44 & 25 & 1010.6 & 1007.8 & 2 & 1 & 17.2 & 24.3 & 2\\\\\n",
+       "\t3 & 12.9 & 25.7 & 0.0 &  6.8 & 10.5 & 46 & 19 & 26 & 38 & 30 & 1007.6 & 1008.7 & 7 & 2 & 21.0 & 23.2 & 2\\\\\n",
+       "\t4 &  9.2 & 28.0 & 0.0 & 19.7 & 11.4 & 24 & 11 &  9 & 45 & 16 & 1017.6 & 1012.8 & 2 & 0 & 18.1 & 26.5 & 2\\\\\n",
+       "\t5 & 17.5 & 32.3 & 1.0 &  4.8 &  8.7 & 41 &  7 & 20 & 82 & 33 & 1010.8 & 1006.0 & 7 & 8 & 17.8 & 29.7 & 2\\\\\n",
+       "\t6 & 14.6 & 29.7 & 0.2 & 26.6 & 12.0 & 56 & 19 & 24 & 55 & 23 & 1009.2 & 1005.4 & 1 & 0 & 20.6 & 28.9 & 2\\\\\n",
        "\\end{tabular}\n"
       ],
       "text/markdown": [
@@ -1783,36 +1783,36 @@
        "\n",
        "| <!--/--> | MinTemp &lt;dbl&gt; | MaxTemp &lt;dbl&gt; | Rainfall &lt;dbl&gt; | Evaporation &lt;dbl&gt; | Sunshine &lt;dbl&gt; | WindGustSpeed &lt;int&gt; | WindSpeed9am &lt;int&gt; | WindSpeed3pm &lt;int&gt; | Humidity9am &lt;int&gt; | Humidity3pm &lt;int&gt; | Pressure9am &lt;dbl&gt; | Pressure3pm &lt;dbl&gt; | Cloud9am &lt;int&gt; | Cloud3pm &lt;int&gt; | Temp9am &lt;dbl&gt; | Temp3pm &lt;dbl&gt; | RainTomorrow &lt;int&gt; |\n",
        "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n",
-       "| 1 | 13.4 | 22.9 | 0.6 |  5.6 |  5.7 | 44 | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | 2 | 16.9 | 21.8 | 2 |\n",
-       "| 2 |  7.4 | 25.1 | 0.0 |  1.4 |  8.4 | 44 |  4 | 22 | 44 | 25 | 1010.6 | 1007.8 | 1 | 3 | 17.2 | 24.3 | 2 |\n",
-       "| 3 | 12.9 | 25.7 | 0.0 |  5.4 |  9.9 | 46 | 19 | 26 | 38 | 30 | 1007.6 | 1008.7 | 1 | 2 | 21.0 | 23.2 | 2 |\n",
-       "| 4 |  9.2 | 28.0 | 0.0 |  8.0 |  9.2 | 24 | 11 |  9 | 45 | 16 | 1017.6 | 1012.8 | 0 | 5 | 18.1 | 26.5 | 2 |\n",
-       "| 5 | 17.5 | 32.3 | 1.0 | 10.2 |  7.4 | 41 |  7 | 20 | 82 | 33 | 1010.8 | 1006.0 | 7 | 8 | 17.8 | 29.7 | 2 |\n",
-       "| 6 | 14.6 | 29.7 | 0.2 | 13.0 | 13.0 | 56 | 19 | 24 | 55 | 23 | 1009.2 | 1005.4 | 0 | 2 | 20.6 | 28.9 | 2 |\n",
+       "| 1 | 13.4 | 22.9 | 0.6 |  5.8 | 10.4 | 44 | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | 2 | 16.9 | 21.8 | 2 |\n",
+       "| 2 |  7.4 | 25.1 | 0.0 |  7.6 | 10.0 | 44 |  4 | 22 | 44 | 25 | 1010.6 | 1007.8 | 2 | 1 | 17.2 | 24.3 | 2 |\n",
+       "| 3 | 12.9 | 25.7 | 0.0 |  6.8 | 10.5 | 46 | 19 | 26 | 38 | 30 | 1007.6 | 1008.7 | 7 | 2 | 21.0 | 23.2 | 2 |\n",
+       "| 4 |  9.2 | 28.0 | 0.0 | 19.7 | 11.4 | 24 | 11 |  9 | 45 | 16 | 1017.6 | 1012.8 | 2 | 0 | 18.1 | 26.5 | 2 |\n",
+       "| 5 | 17.5 | 32.3 | 1.0 |  4.8 |  8.7 | 41 |  7 | 20 | 82 | 33 | 1010.8 | 1006.0 | 7 | 8 | 17.8 | 29.7 | 2 |\n",
+       "| 6 | 14.6 | 29.7 | 0.2 | 26.6 | 12.0 | 56 | 19 | 24 | 55 | 23 | 1009.2 | 1005.4 | 1 | 0 | 20.6 | 28.9 | 2 |\n",
        "\n"
       ],
       "text/plain": [
        "  MinTemp MaxTemp Rainfall Evaporation Sunshine WindGustSpeed WindSpeed9am\n",
-       "1 13.4    22.9    0.6       5.6         5.7     44            20          \n",
-       "2  7.4    25.1    0.0       1.4         8.4     44             4          \n",
-       "3 12.9    25.7    0.0       5.4         9.9     46            19          \n",
-       "4  9.2    28.0    0.0       8.0         9.2     24            11          \n",
-       "5 17.5    32.3    1.0      10.2         7.4     41             7          \n",
-       "6 14.6    29.7    0.2      13.0        13.0     56            19          \n",
+       "1 13.4    22.9    0.6       5.8        10.4     44            20          \n",
+       "2  7.4    25.1    0.0       7.6        10.0     44             4          \n",
+       "3 12.9    25.7    0.0       6.8        10.5     46            19          \n",
+       "4  9.2    28.0    0.0      19.7        11.4     24            11          \n",
+       "5 17.5    32.3    1.0       4.8         8.7     41             7          \n",
+       "6 14.6    29.7    0.2      26.6        12.0     56            19          \n",
        "  WindSpeed3pm Humidity9am Humidity3pm Pressure9am Pressure3pm Cloud9am\n",
        "1 24           71          22          1007.7      1007.1      8       \n",
-       "2 22           44          25          1010.6      1007.8      1       \n",
-       "3 26           38          30          1007.6      1008.7      1       \n",
-       "4  9           45          16          1017.6      1012.8      0       \n",
+       "2 22           44          25          1010.6      1007.8      2       \n",
+       "3 26           38          30          1007.6      1008.7      7       \n",
+       "4  9           45          16          1017.6      1012.8      2       \n",
        "5 20           82          33          1010.8      1006.0      7       \n",
-       "6 24           55          23          1009.2      1005.4      0       \n",
+       "6 24           55          23          1009.2      1005.4      1       \n",
        "  Cloud3pm Temp9am Temp3pm RainTomorrow\n",
        "1 2        16.9    21.8    2           \n",
-       "2 3        17.2    24.3    2           \n",
+       "2 1        17.2    24.3    2           \n",
        "3 2        21.0    23.2    2           \n",
-       "4 5        18.1    26.5    2           \n",
+       "4 0        18.1    26.5    2           \n",
        "5 8        17.8    29.7    2           \n",
-       "6 2        20.6    28.9    2           "
+       "6 0        20.6    28.9    2           "
       ]
      },
      "metadata": {},
@@ -1826,19 +1826,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "2b10286c",
+   "id": "4b7aa8a5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:23:59.899176Z",
-     "iopub.status.busy": "2023-02-21T12:23:59.897520Z",
-     "iopub.status.idle": "2023-02-21T12:24:00.009881Z",
-     "shell.execute_reply": "2023-02-21T12:24:00.008011Z"
+     "iopub.execute_input": "2023-02-21T12:30:01.606731Z",
+     "iopub.status.busy": "2023-02-21T12:30:01.604525Z",
+     "iopub.status.idle": "2023-02-21T12:30:01.746858Z",
+     "shell.execute_reply": "2023-02-21T12:30:01.743047Z"
     },
     "papermill": {
-     "duration": 0.129187,
-     "end_time": "2023-02-21T12:24:00.012295",
+     "duration": 0.162008,
+     "end_time": "2023-02-21T12:30:01.750377",
      "exception": false,
-     "start_time": "2023-02-21T12:23:59.883108",
+     "start_time": "2023-02-21T12:30:01.588369",
      "status": "completed"
     },
     "tags": []
@@ -1854,12 +1854,12 @@
        "\t<tr><th></th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
        "</thead>\n",
        "<tbody>\n",
-       "\t<tr><th scope=row>1</th><td>13.4</td><td>22.9</td><td>0.6</td><td> 3.0</td><td> 8.6</td><td>44</td><td>20</td><td>24</td><td>71</td><td>22</td><td>1007.7</td><td>1007.1</td><td>8</td><td>7</td><td>16.9</td><td>21.8</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>2</th><td> 7.4</td><td>25.1</td><td>0.0</td><td> 5.2</td><td>13.1</td><td>44</td><td> 4</td><td>22</td><td>44</td><td>25</td><td>1010.6</td><td>1007.8</td><td>0</td><td>2</td><td>17.2</td><td>24.3</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>3</th><td>12.9</td><td>25.7</td><td>0.0</td><td> 8.2</td><td> 9.9</td><td>46</td><td>19</td><td>26</td><td>38</td><td>30</td><td>1007.6</td><td>1008.7</td><td>1</td><td>2</td><td>21.0</td><td>23.2</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>4</th><td> 9.2</td><td>28.0</td><td>0.0</td><td> 5.4</td><td> 9.9</td><td>24</td><td>11</td><td> 9</td><td>45</td><td>16</td><td>1017.6</td><td>1012.8</td><td>1</td><td>2</td><td>18.1</td><td>26.5</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>5</th><td>17.5</td><td>32.3</td><td>1.0</td><td> 7.6</td><td> 8.8</td><td>41</td><td> 7</td><td>20</td><td>82</td><td>33</td><td>1010.8</td><td>1006.0</td><td>7</td><td>8</td><td>17.8</td><td>29.7</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>6</th><td>14.6</td><td>29.7</td><td>0.2</td><td>10.8</td><td>10.7</td><td>56</td><td>19</td><td>24</td><td>55</td><td>23</td><td>1009.2</td><td>1005.4</td><td>2</td><td>6</td><td>20.6</td><td>28.9</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>1</th><td>13.4</td><td>22.9</td><td>0.6</td><td>3.6</td><td>10.4</td><td>44</td><td>20</td><td>24</td><td>71</td><td>22</td><td>1007.7</td><td>1007.1</td><td>8</td><td>1</td><td>16.9</td><td>21.8</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>2</th><td> 7.4</td><td>25.1</td><td>0.0</td><td>3.8</td><td> 8.0</td><td>44</td><td> 4</td><td>22</td><td>44</td><td>25</td><td>1010.6</td><td>1007.8</td><td>3</td><td>7</td><td>17.2</td><td>24.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>3</th><td>12.9</td><td>25.7</td><td>0.0</td><td>6.2</td><td>13.6</td><td>46</td><td>19</td><td>26</td><td>38</td><td>30</td><td>1007.6</td><td>1008.7</td><td>1</td><td>2</td><td>21.0</td><td>23.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>4</th><td> 9.2</td><td>28.0</td><td>0.0</td><td>3.2</td><td> 9.5</td><td>24</td><td>11</td><td> 9</td><td>45</td><td>16</td><td>1017.6</td><td>1012.8</td><td>1</td><td>6</td><td>18.1</td><td>26.5</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>5</th><td>17.5</td><td>32.3</td><td>1.0</td><td>6.4</td><td> 7.3</td><td>41</td><td> 7</td><td>20</td><td>82</td><td>33</td><td>1010.8</td><td>1006.0</td><td>7</td><td>8</td><td>17.8</td><td>29.7</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>6</th><td>14.6</td><td>29.7</td><td>0.2</td><td>8.0</td><td>12.1</td><td>56</td><td>19</td><td>24</td><td>55</td><td>23</td><td>1009.2</td><td>1005.4</td><td>1</td><td>1</td><td>20.6</td><td>28.9</td><td>2</td></tr>\n",
        "</tbody>\n",
        "</table>\n"
       ],
@@ -1869,12 +1869,12 @@
        "  & MinTemp & MaxTemp & Rainfall & Evaporation & Sunshine & WindGustSpeed & WindSpeed9am & WindSpeed3pm & Humidity9am & Humidity3pm & Pressure9am & Pressure3pm & Cloud9am & Cloud3pm & Temp9am & Temp3pm & RainTomorrow\\\\\n",
        "  & <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <int> & <int> & <int> & <int> & <int> & <dbl> & <dbl> & <int> & <int> & <dbl> & <dbl> & <int>\\\\\n",
        "\\hline\n",
-       "\t1 & 13.4 & 22.9 & 0.6 &  3.0 &  8.6 & 44 & 20 & 24 & 71 & 22 & 1007.7 & 1007.1 & 8 & 7 & 16.9 & 21.8 & 2\\\\\n",
-       "\t2 &  7.4 & 25.1 & 0.0 &  5.2 & 13.1 & 44 &  4 & 22 & 44 & 25 & 1010.6 & 1007.8 & 0 & 2 & 17.2 & 24.3 & 2\\\\\n",
-       "\t3 & 12.9 & 25.7 & 0.0 &  8.2 &  9.9 & 46 & 19 & 26 & 38 & 30 & 1007.6 & 1008.7 & 1 & 2 & 21.0 & 23.2 & 2\\\\\n",
-       "\t4 &  9.2 & 28.0 & 0.0 &  5.4 &  9.9 & 24 & 11 &  9 & 45 & 16 & 1017.6 & 1012.8 & 1 & 2 & 18.1 & 26.5 & 2\\\\\n",
-       "\t5 & 17.5 & 32.3 & 1.0 &  7.6 &  8.8 & 41 &  7 & 20 & 82 & 33 & 1010.8 & 1006.0 & 7 & 8 & 17.8 & 29.7 & 2\\\\\n",
-       "\t6 & 14.6 & 29.7 & 0.2 & 10.8 & 10.7 & 56 & 19 & 24 & 55 & 23 & 1009.2 & 1005.4 & 2 & 6 & 20.6 & 28.9 & 2\\\\\n",
+       "\t1 & 13.4 & 22.9 & 0.6 & 3.6 & 10.4 & 44 & 20 & 24 & 71 & 22 & 1007.7 & 1007.1 & 8 & 1 & 16.9 & 21.8 & 2\\\\\n",
+       "\t2 &  7.4 & 25.1 & 0.0 & 3.8 &  8.0 & 44 &  4 & 22 & 44 & 25 & 1010.6 & 1007.8 & 3 & 7 & 17.2 & 24.3 & 2\\\\\n",
+       "\t3 & 12.9 & 25.7 & 0.0 & 6.2 & 13.6 & 46 & 19 & 26 & 38 & 30 & 1007.6 & 1008.7 & 1 & 2 & 21.0 & 23.2 & 2\\\\\n",
+       "\t4 &  9.2 & 28.0 & 0.0 & 3.2 &  9.5 & 24 & 11 &  9 & 45 & 16 & 1017.6 & 1012.8 & 1 & 6 & 18.1 & 26.5 & 2\\\\\n",
+       "\t5 & 17.5 & 32.3 & 1.0 & 6.4 &  7.3 & 41 &  7 & 20 & 82 & 33 & 1010.8 & 1006.0 & 7 & 8 & 17.8 & 29.7 & 2\\\\\n",
+       "\t6 & 14.6 & 29.7 & 0.2 & 8.0 & 12.1 & 56 & 19 & 24 & 55 & 23 & 1009.2 & 1005.4 & 1 & 1 & 20.6 & 28.9 & 2\\\\\n",
        "\\end{tabular}\n"
       ],
       "text/markdown": [
@@ -1883,36 +1883,36 @@
        "\n",
        "| <!--/--> | MinTemp &lt;dbl&gt; | MaxTemp &lt;dbl&gt; | Rainfall &lt;dbl&gt; | Evaporation &lt;dbl&gt; | Sunshine &lt;dbl&gt; | WindGustSpeed &lt;int&gt; | WindSpeed9am &lt;int&gt; | WindSpeed3pm &lt;int&gt; | Humidity9am &lt;int&gt; | Humidity3pm &lt;int&gt; | Pressure9am &lt;dbl&gt; | Pressure3pm &lt;dbl&gt; | Cloud9am &lt;int&gt; | Cloud3pm &lt;int&gt; | Temp9am &lt;dbl&gt; | Temp3pm &lt;dbl&gt; | RainTomorrow &lt;int&gt; |\n",
        "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n",
-       "| 1 | 13.4 | 22.9 | 0.6 |  3.0 |  8.6 | 44 | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | 7 | 16.9 | 21.8 | 2 |\n",
-       "| 2 |  7.4 | 25.1 | 0.0 |  5.2 | 13.1 | 44 |  4 | 22 | 44 | 25 | 1010.6 | 1007.8 | 0 | 2 | 17.2 | 24.3 | 2 |\n",
-       "| 3 | 12.9 | 25.7 | 0.0 |  8.2 |  9.9 | 46 | 19 | 26 | 38 | 30 | 1007.6 | 1008.7 | 1 | 2 | 21.0 | 23.2 | 2 |\n",
-       "| 4 |  9.2 | 28.0 | 0.0 |  5.4 |  9.9 | 24 | 11 |  9 | 45 | 16 | 1017.6 | 1012.8 | 1 | 2 | 18.1 | 26.5 | 2 |\n",
-       "| 5 | 17.5 | 32.3 | 1.0 |  7.6 |  8.8 | 41 |  7 | 20 | 82 | 33 | 1010.8 | 1006.0 | 7 | 8 | 17.8 | 29.7 | 2 |\n",
-       "| 6 | 14.6 | 29.7 | 0.2 | 10.8 | 10.7 | 56 | 19 | 24 | 55 | 23 | 1009.2 | 1005.4 | 2 | 6 | 20.6 | 28.9 | 2 |\n",
+       "| 1 | 13.4 | 22.9 | 0.6 | 3.6 | 10.4 | 44 | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | 1 | 16.9 | 21.8 | 2 |\n",
+       "| 2 |  7.4 | 25.1 | 0.0 | 3.8 |  8.0 | 44 |  4 | 22 | 44 | 25 | 1010.6 | 1007.8 | 3 | 7 | 17.2 | 24.3 | 2 |\n",
+       "| 3 | 12.9 | 25.7 | 0.0 | 6.2 | 13.6 | 46 | 19 | 26 | 38 | 30 | 1007.6 | 1008.7 | 1 | 2 | 21.0 | 23.2 | 2 |\n",
+       "| 4 |  9.2 | 28.0 | 0.0 | 3.2 |  9.5 | 24 | 11 |  9 | 45 | 16 | 1017.6 | 1012.8 | 1 | 6 | 18.1 | 26.5 | 2 |\n",
+       "| 5 | 17.5 | 32.3 | 1.0 | 6.4 |  7.3 | 41 |  7 | 20 | 82 | 33 | 1010.8 | 1006.0 | 7 | 8 | 17.8 | 29.7 | 2 |\n",
+       "| 6 | 14.6 | 29.7 | 0.2 | 8.0 | 12.1 | 56 | 19 | 24 | 55 | 23 | 1009.2 | 1005.4 | 1 | 1 | 20.6 | 28.9 | 2 |\n",
        "\n"
       ],
       "text/plain": [
        "  MinTemp MaxTemp Rainfall Evaporation Sunshine WindGustSpeed WindSpeed9am\n",
-       "1 13.4    22.9    0.6       3.0         8.6     44            20          \n",
-       "2  7.4    25.1    0.0       5.2        13.1     44             4          \n",
-       "3 12.9    25.7    0.0       8.2         9.9     46            19          \n",
-       "4  9.2    28.0    0.0       5.4         9.9     24            11          \n",
-       "5 17.5    32.3    1.0       7.6         8.8     41             7          \n",
-       "6 14.6    29.7    0.2      10.8        10.7     56            19          \n",
+       "1 13.4    22.9    0.6      3.6         10.4     44            20          \n",
+       "2  7.4    25.1    0.0      3.8          8.0     44             4          \n",
+       "3 12.9    25.7    0.0      6.2         13.6     46            19          \n",
+       "4  9.2    28.0    0.0      3.2          9.5     24            11          \n",
+       "5 17.5    32.3    1.0      6.4          7.3     41             7          \n",
+       "6 14.6    29.7    0.2      8.0         12.1     56            19          \n",
        "  WindSpeed3pm Humidity9am Humidity3pm Pressure9am Pressure3pm Cloud9am\n",
        "1 24           71          22          1007.7      1007.1      8       \n",
-       "2 22           44          25          1010.6      1007.8      0       \n",
+       "2 22           44          25          1010.6      1007.8      3       \n",
        "3 26           38          30          1007.6      1008.7      1       \n",
        "4  9           45          16          1017.6      1012.8      1       \n",
        "5 20           82          33          1010.8      1006.0      7       \n",
-       "6 24           55          23          1009.2      1005.4      2       \n",
+       "6 24           55          23          1009.2      1005.4      1       \n",
        "  Cloud3pm Temp9am Temp3pm RainTomorrow\n",
-       "1 7        16.9    21.8    2           \n",
-       "2 2        17.2    24.3    2           \n",
+       "1 1        16.9    21.8    2           \n",
+       "2 7        17.2    24.3    2           \n",
        "3 2        21.0    23.2    2           \n",
-       "4 2        18.1    26.5    2           \n",
+       "4 6        18.1    26.5    2           \n",
        "5 8        17.8    29.7    2           \n",
-       "6 6        20.6    28.9    2           "
+       "6 1        20.6    28.9    2           "
       ]
      },
      "metadata": {},
@@ -1926,19 +1926,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "e270388c",
+   "id": "40226477",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:24:00.043626Z",
-     "iopub.status.busy": "2023-02-21T12:24:00.041798Z",
-     "iopub.status.idle": "2023-02-21T12:24:00.059609Z",
-     "shell.execute_reply": "2023-02-21T12:24:00.057803Z"
+     "iopub.execute_input": "2023-02-21T12:30:01.788076Z",
+     "iopub.status.busy": "2023-02-21T12:30:01.786352Z",
+     "iopub.status.idle": "2023-02-21T12:30:01.807947Z",
+     "shell.execute_reply": "2023-02-21T12:30:01.805646Z"
     },
     "papermill": {
-     "duration": 0.036158,
-     "end_time": "2023-02-21T12:24:00.062068",
+     "duration": 0.045145,
+     "end_time": "2023-02-21T12:30:01.811325",
      "exception": false,
-     "start_time": "2023-02-21T12:24:00.025910",
+     "start_time": "2023-02-21T12:30:01.766180",
      "status": "completed"
     },
     "tags": []
@@ -1961,19 +1961,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "84dcf957",
+   "id": "6442b153",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:24:00.089818Z",
-     "iopub.status.busy": "2023-02-21T12:24:00.088318Z",
-     "iopub.status.idle": "2023-02-21T12:24:00.106721Z",
-     "shell.execute_reply": "2023-02-21T12:24:00.104557Z"
+     "iopub.execute_input": "2023-02-21T12:30:01.852868Z",
+     "iopub.status.busy": "2023-02-21T12:30:01.850969Z",
+     "iopub.status.idle": "2023-02-21T12:30:01.873027Z",
+     "shell.execute_reply": "2023-02-21T12:30:01.871020Z"
     },
     "papermill": {
-     "duration": 0.035273,
-     "end_time": "2023-02-21T12:24:00.109609",
+     "duration": 0.046375,
+     "end_time": "2023-02-21T12:30:01.875979",
      "exception": false,
-     "start_time": "2023-02-21T12:24:00.074336",
+     "start_time": "2023-02-21T12:30:01.829604",
      "status": "completed"
     },
     "tags": []
@@ -1995,14 +1995,507 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 19,
+   "id": "91545351",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-21T12:30:01.910836Z",
+     "iopub.status.busy": "2023-02-21T12:30:01.908477Z",
+     "iopub.status.idle": "2023-02-21T12:30:02.809433Z",
+     "shell.execute_reply": "2023-02-21T12:30:02.807496Z"
+    },
+    "papermill": {
+     "duration": 0.921,
+     "end_time": "2023-02-21T12:30:02.812574",
+     "exception": false,
+     "start_time": "2023-02-21T12:30:01.891574",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [],
+   "source": [
+    "imputer_2 <- complete(imputer, \"long\", inc=TRUE)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 20,
+   "id": "332866ba",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-21T12:30:02.843916Z",
+     "iopub.status.busy": "2023-02-21T12:30:02.842305Z",
+     "iopub.status.idle": "2023-02-21T12:30:03.008241Z",
+     "shell.execute_reply": "2023-02-21T12:30:03.005066Z"
+    },
+    "papermill": {
+     "duration": 0.185799,
+     "end_time": "2023-02-21T12:30:03.011954",
+     "exception": false,
+     "start_time": "2023-02-21T12:30:02.826155",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A data.frame: 872760 × 19</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>.imp</th><th scope=col>.id</th><th scope=col>MinTemp</th><th scope=col>MaxTemp</th><th scope=col>Rainfall</th><th scope=col>Evaporation</th><th scope=col>Sunshine</th><th scope=col>WindGustSpeed</th><th scope=col>WindSpeed9am</th><th scope=col>WindSpeed3pm</th><th scope=col>Humidity9am</th><th scope=col>Humidity3pm</th><th scope=col>Pressure9am</th><th scope=col>Pressure3pm</th><th scope=col>Cloud9am</th><th scope=col>Cloud3pm</th><th scope=col>Temp9am</th><th scope=col>Temp3pm</th><th scope=col>RainTomorrow</th></tr>\n",
+       "\t<tr><th></th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>1</th><td>0</td><td> 1</td><td>13.4</td><td>22.9</td><td> 0.6</td><td>NA</td><td>NA</td><td>44</td><td>20</td><td>24</td><td>71</td><td>22</td><td>1007.7</td><td>1007.1</td><td> 8</td><td>NA</td><td>16.9</td><td>21.8</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>2</th><td>0</td><td> 2</td><td> 7.4</td><td>25.1</td><td> 0.0</td><td>NA</td><td>NA</td><td>44</td><td> 4</td><td>22</td><td>44</td><td>25</td><td>1010.6</td><td>1007.8</td><td>NA</td><td>NA</td><td>17.2</td><td>24.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>3</th><td>0</td><td> 3</td><td>12.9</td><td>25.7</td><td> 0.0</td><td>NA</td><td>NA</td><td>46</td><td>19</td><td>26</td><td>38</td><td>30</td><td>1007.6</td><td>1008.7</td><td>NA</td><td> 2</td><td>21.0</td><td>23.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>4</th><td>0</td><td> 4</td><td> 9.2</td><td>28.0</td><td> 0.0</td><td>NA</td><td>NA</td><td>24</td><td>11</td><td> 9</td><td>45</td><td>16</td><td>1017.6</td><td>1012.8</td><td>NA</td><td>NA</td><td>18.1</td><td>26.5</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>5</th><td>0</td><td> 5</td><td>17.5</td><td>32.3</td><td> 1.0</td><td>NA</td><td>NA</td><td>41</td><td> 7</td><td>20</td><td>82</td><td>33</td><td>1010.8</td><td>1006.0</td><td> 7</td><td> 8</td><td>17.8</td><td>29.7</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>6</th><td>0</td><td> 6</td><td>14.6</td><td>29.7</td><td> 0.2</td><td>NA</td><td>NA</td><td>56</td><td>19</td><td>24</td><td>55</td><td>23</td><td>1009.2</td><td>1005.4</td><td>NA</td><td>NA</td><td>20.6</td><td>28.9</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>7</th><td>0</td><td> 7</td><td>14.3</td><td>25.0</td><td> 0.0</td><td>NA</td><td>NA</td><td>50</td><td>20</td><td>24</td><td>49</td><td>19</td><td>1009.6</td><td>1008.2</td><td> 1</td><td>NA</td><td>18.1</td><td>24.6</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>8</th><td>0</td><td> 8</td><td> 7.7</td><td>26.7</td><td> 0.0</td><td>NA</td><td>NA</td><td>35</td><td> 6</td><td>17</td><td>48</td><td>19</td><td>1013.4</td><td>1010.1</td><td>NA</td><td>NA</td><td>16.3</td><td>25.5</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>9</th><td>0</td><td> 9</td><td> 9.7</td><td>31.9</td><td> 0.0</td><td>NA</td><td>NA</td><td>80</td><td> 7</td><td>28</td><td>42</td><td> 9</td><td>1008.9</td><td>1003.6</td><td>NA</td><td>NA</td><td>18.3</td><td>30.2</td><td>1</td></tr>\n",
+       "\t<tr><th scope=row>10</th><td>0</td><td>10</td><td>13.1</td><td>30.1</td><td> 1.4</td><td>NA</td><td>NA</td><td>28</td><td>15</td><td>11</td><td>58</td><td>27</td><td>1007.0</td><td>1005.7</td><td>NA</td><td>NA</td><td>20.1</td><td>28.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>11</th><td>0</td><td>11</td><td>13.4</td><td>30.4</td><td> 0.0</td><td>NA</td><td>NA</td><td>30</td><td>17</td><td> 6</td><td>48</td><td>22</td><td>1011.8</td><td>1008.7</td><td>NA</td><td>NA</td><td>20.4</td><td>28.8</td><td>1</td></tr>\n",
+       "\t<tr><th scope=row>12</th><td>0</td><td>12</td><td>15.9</td><td>21.7</td><td> 2.2</td><td>NA</td><td>NA</td><td>31</td><td>15</td><td>13</td><td>89</td><td>91</td><td>1010.5</td><td>1004.2</td><td> 8</td><td> 8</td><td>15.9</td><td>17.0</td><td>1</td></tr>\n",
+       "\t<tr><th scope=row>13</th><td>0</td><td>13</td><td>15.9</td><td>18.6</td><td>15.6</td><td>NA</td><td>NA</td><td>61</td><td>28</td><td>28</td><td>76</td><td>93</td><td> 994.3</td><td> 993.0</td><td> 8</td><td> 8</td><td>17.4</td><td>15.8</td><td>1</td></tr>\n",
+       "\t<tr><th scope=row>14</th><td>0</td><td>14</td><td>12.6</td><td>21.0</td><td> 3.6</td><td>NA</td><td>NA</td><td>44</td><td>24</td><td>20</td><td>65</td><td>43</td><td>1001.2</td><td>1001.8</td><td>NA</td><td> 7</td><td>15.8</td><td>19.8</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>15</th><td>0</td><td>15</td><td> 8.4</td><td>24.6</td><td> 0.0</td><td>NA</td><td>NA</td><td>NA</td><td> 4</td><td>30</td><td>57</td><td>32</td><td>1009.7</td><td>1008.7</td><td>NA</td><td>NA</td><td>15.9</td><td>23.5</td><td>3</td></tr>\n",
+       "\t<tr><th scope=row>16</th><td>0</td><td>16</td><td> 9.8</td><td>27.7</td><td>  NA</td><td>NA</td><td>NA</td><td>50</td><td>NA</td><td>22</td><td>50</td><td>28</td><td>1013.4</td><td>1010.3</td><td> 0</td><td>NA</td><td>17.3</td><td>26.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>17</th><td>0</td><td>17</td><td>14.1</td><td>20.9</td><td> 0.0</td><td>NA</td><td>NA</td><td>22</td><td>11</td><td> 9</td><td>69</td><td>82</td><td>1012.2</td><td>1010.4</td><td> 8</td><td> 1</td><td>17.2</td><td>18.1</td><td>1</td></tr>\n",
+       "\t<tr><th scope=row>18</th><td>0</td><td>18</td><td>13.5</td><td>22.9</td><td>16.8</td><td>NA</td><td>NA</td><td>63</td><td> 6</td><td>20</td><td>80</td><td>65</td><td>1005.8</td><td>1002.2</td><td> 8</td><td> 1</td><td>18.0</td><td>21.5</td><td>1</td></tr>\n",
+       "\t<tr><th scope=row>19</th><td>0</td><td>19</td><td>11.2</td><td>22.5</td><td>10.6</td><td>NA</td><td>NA</td><td>43</td><td>24</td><td>17</td><td>47</td><td>32</td><td>1009.4</td><td>1009.7</td><td>NA</td><td> 2</td><td>15.5</td><td>21.0</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>20</th><td>0</td><td>20</td><td> 9.8</td><td>25.6</td><td> 0.0</td><td>NA</td><td>NA</td><td>26</td><td>17</td><td> 6</td><td>45</td><td>26</td><td>1019.2</td><td>1017.1</td><td>NA</td><td>NA</td><td>15.8</td><td>23.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>21</th><td>0</td><td>21</td><td>11.5</td><td>29.3</td><td> 0.0</td><td>NA</td><td>NA</td><td>24</td><td> 9</td><td> 9</td><td>56</td><td>28</td><td>1019.3</td><td>1014.8</td><td>NA</td><td>NA</td><td>19.1</td><td>27.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>22</th><td>0</td><td>22</td><td>17.1</td><td>33.0</td><td> 0.0</td><td>NA</td><td>NA</td><td>43</td><td>17</td><td>22</td><td>38</td><td>28</td><td>1013.6</td><td>1008.1</td><td>NA</td><td> 1</td><td>24.5</td><td>31.6</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>23</th><td>0</td><td>23</td><td>20.5</td><td>31.8</td><td> 0.0</td><td>NA</td><td>NA</td><td>41</td><td>19</td><td>20</td><td>54</td><td>24</td><td>1007.8</td><td>1005.7</td><td>NA</td><td>NA</td><td>23.8</td><td>30.8</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>24</th><td>0</td><td>24</td><td>15.3</td><td>30.9</td><td> 0.0</td><td>NA</td><td>NA</td><td>33</td><td> 6</td><td>13</td><td>55</td><td>23</td><td>1011.0</td><td>1008.2</td><td> 5</td><td>NA</td><td>20.9</td><td>29.0</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>25</th><td>0</td><td>25</td><td>12.6</td><td>32.4</td><td> 0.0</td><td>NA</td><td>NA</td><td>43</td><td> 4</td><td>19</td><td>49</td><td>17</td><td>1012.9</td><td>1010.1</td><td>NA</td><td>NA</td><td>21.5</td><td>31.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>26</th><td>0</td><td>26</td><td>16.2</td><td>33.9</td><td> 0.0</td><td>NA</td><td>NA</td><td>35</td><td> 9</td><td>13</td><td>45</td><td>19</td><td>1010.9</td><td>1007.6</td><td>NA</td><td> 1</td><td>23.2</td><td>33.0</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>27</th><td>0</td><td>27</td><td>16.9</td><td>33.0</td><td> 0.0</td><td>NA</td><td>NA</td><td>57</td><td> 0</td><td>26</td><td>41</td><td>28</td><td>1006.8</td><td>1003.6</td><td>NA</td><td> 1</td><td>26.6</td><td>31.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>28</th><td>0</td><td>28</td><td>20.1</td><td>32.7</td><td> 0.0</td><td>NA</td><td>NA</td><td>48</td><td>13</td><td>30</td><td>56</td><td>15</td><td>1005.2</td><td>1001.7</td><td>NA</td><td>NA</td><td>24.6</td><td>32.1</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>29</th><td>0</td><td>29</td><td>19.7</td><td>27.2</td><td> 0.0</td><td>NA</td><td>NA</td><td>46</td><td>19</td><td>30</td><td>49</td><td>22</td><td>1004.8</td><td>1004.2</td><td>NA</td><td>NA</td><td>21.6</td><td>26.1</td><td>1</td></tr>\n",
+       "\t<tr><th scope=row>30</th><td>0</td><td>30</td><td>12.5</td><td>24.2</td><td> 1.2</td><td>NA</td><td>NA</td><td>50</td><td>11</td><td>22</td><td>78</td><td>70</td><td>1005.6</td><td>1003.4</td><td> 8</td><td> 8</td><td>12.5</td><td>18.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>⋮</th><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td><td>⋮</td></tr>\n",
+       "\t<tr><th scope=row>872731</th><td>5</td><td>145431</td><td> 9.3</td><td>28.0</td><td>0</td><td>8.0</td><td>10.2</td><td>28</td><td> 6</td><td>11</td><td>36</td><td>16</td><td>1019.9</td><td>1016.9</td><td>1</td><td>1</td><td>16.6</td><td>27.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872732</th><td>5</td><td>145432</td><td> 8.0</td><td>24.6</td><td>0</td><td>4.2</td><td>10.3</td><td>33</td><td>11</td><td>13</td><td>46</td><td>25</td><td>1021.7</td><td>1018.8</td><td>4</td><td>1</td><td>13.8</td><td>23.5</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872733</th><td>5</td><td>145433</td><td>12.7</td><td>22.2</td><td>0</td><td>5.8</td><td> 0.9</td><td>37</td><td>19</td><td>13</td><td>59</td><td>34</td><td>1024.3</td><td>1021.7</td><td>8</td><td>8</td><td>13.9</td><td>21.0</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872734</th><td>5</td><td>145434</td><td> 9.4</td><td>22.7</td><td>0</td><td>8.0</td><td> 6.1</td><td>35</td><td>13</td><td>17</td><td>62</td><td>32</td><td>1026.6</td><td>1023.6</td><td>8</td><td>4</td><td>11.8</td><td>22.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872735</th><td>5</td><td>145435</td><td> 5.4</td><td>20.5</td><td>0</td><td>2.4</td><td>10.4</td><td>46</td><td>20</td><td>28</td><td>56</td><td>32</td><td>1029.2</td><td>1025.3</td><td>2</td><td>1</td><td>11.1</td><td>20.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872736</th><td>5</td><td>145436</td><td> 5.6</td><td>19.4</td><td>0</td><td>8.0</td><td> 9.5</td><td>43</td><td>22</td><td>24</td><td>61</td><td>22</td><td>1029.6</td><td>1027.1</td><td>2</td><td>5</td><td> 9.7</td><td>18.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872737</th><td>5</td><td>145437</td><td> 1.5</td><td>19.2</td><td>0</td><td>4.4</td><td>10.8</td><td>37</td><td>17</td><td>22</td><td>45</td><td>18</td><td>1030.7</td><td>1026.7</td><td>2</td><td>1</td><td> 6.8</td><td>17.6</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872738</th><td>5</td><td>145438</td><td> 3.8</td><td>19.8</td><td>0</td><td>4.8</td><td> 8.8</td><td>39</td><td>19</td><td>17</td><td>42</td><td>22</td><td>1028.7</td><td>1024.1</td><td>2</td><td>3</td><td> 8.6</td><td>18.9</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872739</th><td>5</td><td>145439</td><td> 4.5</td><td>18.8</td><td>0</td><td>4.6</td><td> 6.6</td><td>31</td><td>13</td><td>15</td><td>42</td><td>26</td><td>1026.9</td><td>1022.4</td><td>0</td><td>3</td><td> 9.5</td><td>18.6</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872740</th><td>5</td><td>145440</td><td> 4.9</td><td>20.7</td><td>0</td><td>7.6</td><td>13.4</td><td>37</td><td>17</td><td>24</td><td>38</td><td>11</td><td>1027.1</td><td>1023.9</td><td>1</td><td>0</td><td>10.3</td><td>19.8</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872741</th><td>5</td><td>145441</td><td> 1.2</td><td>20.8</td><td>0</td><td>2.6</td><td>10.2</td><td>43</td><td>13</td><td>28</td><td>29</td><td> 6</td><td>1029.8</td><td>1025.9</td><td>0</td><td>1</td><td> 7.9</td><td>19.9</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872742</th><td>5</td><td>145442</td><td> 0.5</td><td>21.7</td><td>0</td><td>2.2</td><td>10.6</td><td>43</td><td>13</td><td>20</td><td>27</td><td>19</td><td>1029.0</td><td>1025.0</td><td>0</td><td>0</td><td> 9.5</td><td>20.5</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872743</th><td>5</td><td>145443</td><td> 4.0</td><td>20.0</td><td>0</td><td>6.8</td><td>11.7</td><td>39</td><td>13</td><td>26</td><td>58</td><td>26</td><td>1030.2</td><td>1026.7</td><td>0</td><td>0</td><td> 9.1</td><td>19.0</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872744</th><td>5</td><td>145444</td><td> 3.4</td><td>19.8</td><td>0</td><td>7.4</td><td> 9.9</td><td>43</td><td>19</td><td>24</td><td>54</td><td>23</td><td>1031.8</td><td>1027.7</td><td>4</td><td>1</td><td> 8.7</td><td>18.9</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872745</th><td>5</td><td>145445</td><td> 3.2</td><td>18.6</td><td>0</td><td>4.0</td><td>13.6</td><td>46</td><td>15</td><td>20</td><td>56</td><td>29</td><td>1031.0</td><td>1027.2</td><td>0</td><td>0</td><td> 8.2</td><td>17.4</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872746</th><td>5</td><td>145446</td><td> 2.4</td><td>19.1</td><td>0</td><td>9.4</td><td> 8.8</td><td>33</td><td>17</td><td>17</td><td>59</td><td>24</td><td>1030.0</td><td>1026.2</td><td>3</td><td>2</td><td> 8.0</td><td>18.8</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872747</th><td>5</td><td>145447</td><td> 5.1</td><td>19.7</td><td>0</td><td>6.4</td><td> 7.0</td><td>46</td><td>13</td><td>17</td><td>56</td><td>29</td><td>1028.5</td><td>1025.8</td><td>6</td><td>1</td><td> 8.5</td><td>19.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872748</th><td>5</td><td>145448</td><td> 2.5</td><td>21.2</td><td>0</td><td>4.4</td><td>11.9</td><td>35</td><td>17</td><td>19</td><td>57</td><td>32</td><td>1027.2</td><td>1023.0</td><td>0</td><td>2</td><td>10.3</td><td>20.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872749</th><td>5</td><td>145449</td><td> 2.3</td><td>21.4</td><td>0</td><td>5.2</td><td> 9.9</td><td>22</td><td>11</td><td> 7</td><td>60</td><td>28</td><td>1026.9</td><td>1022.8</td><td>0</td><td>1</td><td> 8.9</td><td>20.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872750</th><td>5</td><td>145450</td><td> 2.6</td><td>22.5</td><td>0</td><td>1.0</td><td>10.1</td><td>19</td><td> 9</td><td> 7</td><td>59</td><td>24</td><td>1025.0</td><td>1021.4</td><td>1</td><td>0</td><td> 8.8</td><td>22.1</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872751</th><td>5</td><td>145451</td><td> 5.2</td><td>24.3</td><td>0</td><td>3.6</td><td> 8.6</td><td>24</td><td>11</td><td>11</td><td>53</td><td>24</td><td>1023.8</td><td>1020.0</td><td>5</td><td>7</td><td>12.3</td><td>23.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872752</th><td>5</td><td>145452</td><td> 6.4</td><td>23.4</td><td>0</td><td>3.6</td><td>11.5</td><td>31</td><td>15</td><td>17</td><td>53</td><td>25</td><td>1025.8</td><td>1023.0</td><td>1</td><td>1</td><td>11.2</td><td>23.1</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872753</th><td>5</td><td>145453</td><td> 8.0</td><td>20.7</td><td>0</td><td>4.6</td><td> 0.2</td><td>41</td><td>19</td><td>26</td><td>56</td><td>32</td><td>1028.1</td><td>1024.3</td><td>7</td><td>7</td><td>11.6</td><td>20.0</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872754</th><td>5</td><td>145454</td><td> 7.4</td><td>20.6</td><td>0</td><td>6.2</td><td> 8.5</td><td>35</td><td>15</td><td>17</td><td>63</td><td>33</td><td>1027.2</td><td>1023.3</td><td>7</td><td>5</td><td>11.0</td><td>20.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872755</th><td>5</td><td>145455</td><td> 3.5</td><td>21.8</td><td>0</td><td>4.0</td><td>11.6</td><td>31</td><td>15</td><td>13</td><td>59</td><td>27</td><td>1024.7</td><td>1021.2</td><td>1</td><td>0</td><td> 9.4</td><td>20.9</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872756</th><td>5</td><td>145456</td><td> 2.8</td><td>23.4</td><td>0</td><td>3.6</td><td>10.5</td><td>31</td><td>13</td><td>11</td><td>51</td><td>24</td><td>1024.6</td><td>1020.3</td><td>0</td><td>1</td><td>10.1</td><td>22.4</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872757</th><td>5</td><td>145457</td><td> 3.6</td><td>25.3</td><td>0</td><td>3.0</td><td>10.9</td><td>22</td><td>13</td><td> 9</td><td>56</td><td>21</td><td>1023.5</td><td>1019.1</td><td>0</td><td>1</td><td>10.9</td><td>24.5</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872758</th><td>5</td><td>145458</td><td> 5.4</td><td>26.9</td><td>0</td><td>2.2</td><td>10.3</td><td>37</td><td> 9</td><td> 9</td><td>53</td><td>24</td><td>1021.0</td><td>1016.8</td><td>0</td><td>0</td><td>12.5</td><td>26.1</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872759</th><td>5</td><td>145459</td><td> 7.8</td><td>27.0</td><td>0</td><td>5.8</td><td>11.0</td><td>28</td><td>13</td><td> 7</td><td>51</td><td>24</td><td>1019.4</td><td>1016.5</td><td>3</td><td>2</td><td>15.1</td><td>26.0</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>872760</th><td>5</td><td>145460</td><td>14.9</td><td>20.8</td><td>0</td><td>4.4</td><td> 1.9</td><td>28</td><td>17</td><td>17</td><td>62</td><td>36</td><td>1020.2</td><td>1017.9</td><td>8</td><td>8</td><td>15.0</td><td>20.9</td><td>3</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A data.frame: 872760 × 19\n",
+       "\\begin{tabular}{r|lllllllllllllllllll}\n",
+       "  & .imp & .id & MinTemp & MaxTemp & Rainfall & Evaporation & Sunshine & WindGustSpeed & WindSpeed9am & WindSpeed3pm & Humidity9am & Humidity3pm & Pressure9am & Pressure3pm & Cloud9am & Cloud3pm & Temp9am & Temp3pm & RainTomorrow\\\\\n",
+       "  & <int> & <int> & <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <int> & <int> & <int> & <int> & <int> & <dbl> & <dbl> & <int> & <int> & <dbl> & <dbl> & <int>\\\\\n",
+       "\\hline\n",
+       "\t1 & 0 &  1 & 13.4 & 22.9 &  0.6 & NA & NA & 44 & 20 & 24 & 71 & 22 & 1007.7 & 1007.1 &  8 & NA & 16.9 & 21.8 & 2\\\\\n",
+       "\t2 & 0 &  2 &  7.4 & 25.1 &  0.0 & NA & NA & 44 &  4 & 22 & 44 & 25 & 1010.6 & 1007.8 & NA & NA & 17.2 & 24.3 & 2\\\\\n",
+       "\t3 & 0 &  3 & 12.9 & 25.7 &  0.0 & NA & NA & 46 & 19 & 26 & 38 & 30 & 1007.6 & 1008.7 & NA &  2 & 21.0 & 23.2 & 2\\\\\n",
+       "\t4 & 0 &  4 &  9.2 & 28.0 &  0.0 & NA & NA & 24 & 11 &  9 & 45 & 16 & 1017.6 & 1012.8 & NA & NA & 18.1 & 26.5 & 2\\\\\n",
+       "\t5 & 0 &  5 & 17.5 & 32.3 &  1.0 & NA & NA & 41 &  7 & 20 & 82 & 33 & 1010.8 & 1006.0 &  7 &  8 & 17.8 & 29.7 & 2\\\\\n",
+       "\t6 & 0 &  6 & 14.6 & 29.7 &  0.2 & NA & NA & 56 & 19 & 24 & 55 & 23 & 1009.2 & 1005.4 & NA & NA & 20.6 & 28.9 & 2\\\\\n",
+       "\t7 & 0 &  7 & 14.3 & 25.0 &  0.0 & NA & NA & 50 & 20 & 24 & 49 & 19 & 1009.6 & 1008.2 &  1 & NA & 18.1 & 24.6 & 2\\\\\n",
+       "\t8 & 0 &  8 &  7.7 & 26.7 &  0.0 & NA & NA & 35 &  6 & 17 & 48 & 19 & 1013.4 & 1010.1 & NA & NA & 16.3 & 25.5 & 2\\\\\n",
+       "\t9 & 0 &  9 &  9.7 & 31.9 &  0.0 & NA & NA & 80 &  7 & 28 & 42 &  9 & 1008.9 & 1003.6 & NA & NA & 18.3 & 30.2 & 1\\\\\n",
+       "\t10 & 0 & 10 & 13.1 & 30.1 &  1.4 & NA & NA & 28 & 15 & 11 & 58 & 27 & 1007.0 & 1005.7 & NA & NA & 20.1 & 28.2 & 2\\\\\n",
+       "\t11 & 0 & 11 & 13.4 & 30.4 &  0.0 & NA & NA & 30 & 17 &  6 & 48 & 22 & 1011.8 & 1008.7 & NA & NA & 20.4 & 28.8 & 1\\\\\n",
+       "\t12 & 0 & 12 & 15.9 & 21.7 &  2.2 & NA & NA & 31 & 15 & 13 & 89 & 91 & 1010.5 & 1004.2 &  8 &  8 & 15.9 & 17.0 & 1\\\\\n",
+       "\t13 & 0 & 13 & 15.9 & 18.6 & 15.6 & NA & NA & 61 & 28 & 28 & 76 & 93 &  994.3 &  993.0 &  8 &  8 & 17.4 & 15.8 & 1\\\\\n",
+       "\t14 & 0 & 14 & 12.6 & 21.0 &  3.6 & NA & NA & 44 & 24 & 20 & 65 & 43 & 1001.2 & 1001.8 & NA &  7 & 15.8 & 19.8 & 2\\\\\n",
+       "\t15 & 0 & 15 &  8.4 & 24.6 &  0.0 & NA & NA & NA &  4 & 30 & 57 & 32 & 1009.7 & 1008.7 & NA & NA & 15.9 & 23.5 & 3\\\\\n",
+       "\t16 & 0 & 16 &  9.8 & 27.7 &   NA & NA & NA & 50 & NA & 22 & 50 & 28 & 1013.4 & 1010.3 &  0 & NA & 17.3 & 26.2 & 2\\\\\n",
+       "\t17 & 0 & 17 & 14.1 & 20.9 &  0.0 & NA & NA & 22 & 11 &  9 & 69 & 82 & 1012.2 & 1010.4 &  8 &  1 & 17.2 & 18.1 & 1\\\\\n",
+       "\t18 & 0 & 18 & 13.5 & 22.9 & 16.8 & NA & NA & 63 &  6 & 20 & 80 & 65 & 1005.8 & 1002.2 &  8 &  1 & 18.0 & 21.5 & 1\\\\\n",
+       "\t19 & 0 & 19 & 11.2 & 22.5 & 10.6 & NA & NA & 43 & 24 & 17 & 47 & 32 & 1009.4 & 1009.7 & NA &  2 & 15.5 & 21.0 & 2\\\\\n",
+       "\t20 & 0 & 20 &  9.8 & 25.6 &  0.0 & NA & NA & 26 & 17 &  6 & 45 & 26 & 1019.2 & 1017.1 & NA & NA & 15.8 & 23.2 & 2\\\\\n",
+       "\t21 & 0 & 21 & 11.5 & 29.3 &  0.0 & NA & NA & 24 &  9 &  9 & 56 & 28 & 1019.3 & 1014.8 & NA & NA & 19.1 & 27.3 & 2\\\\\n",
+       "\t22 & 0 & 22 & 17.1 & 33.0 &  0.0 & NA & NA & 43 & 17 & 22 & 38 & 28 & 1013.6 & 1008.1 & NA &  1 & 24.5 & 31.6 & 2\\\\\n",
+       "\t23 & 0 & 23 & 20.5 & 31.8 &  0.0 & NA & NA & 41 & 19 & 20 & 54 & 24 & 1007.8 & 1005.7 & NA & NA & 23.8 & 30.8 & 2\\\\\n",
+       "\t24 & 0 & 24 & 15.3 & 30.9 &  0.0 & NA & NA & 33 &  6 & 13 & 55 & 23 & 1011.0 & 1008.2 &  5 & NA & 20.9 & 29.0 & 2\\\\\n",
+       "\t25 & 0 & 25 & 12.6 & 32.4 &  0.0 & NA & NA & 43 &  4 & 19 & 49 & 17 & 1012.9 & 1010.1 & NA & NA & 21.5 & 31.2 & 2\\\\\n",
+       "\t26 & 0 & 26 & 16.2 & 33.9 &  0.0 & NA & NA & 35 &  9 & 13 & 45 & 19 & 1010.9 & 1007.6 & NA &  1 & 23.2 & 33.0 & 2\\\\\n",
+       "\t27 & 0 & 27 & 16.9 & 33.0 &  0.0 & NA & NA & 57 &  0 & 26 & 41 & 28 & 1006.8 & 1003.6 & NA &  1 & 26.6 & 31.2 & 2\\\\\n",
+       "\t28 & 0 & 28 & 20.1 & 32.7 &  0.0 & NA & NA & 48 & 13 & 30 & 56 & 15 & 1005.2 & 1001.7 & NA & NA & 24.6 & 32.1 & 2\\\\\n",
+       "\t29 & 0 & 29 & 19.7 & 27.2 &  0.0 & NA & NA & 46 & 19 & 30 & 49 & 22 & 1004.8 & 1004.2 & NA & NA & 21.6 & 26.1 & 1\\\\\n",
+       "\t30 & 0 & 30 & 12.5 & 24.2 &  1.2 & NA & NA & 50 & 11 & 22 & 78 & 70 & 1005.6 & 1003.4 &  8 &  8 & 12.5 & 18.2 & 2\\\\\n",
+       "\t⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮ & ⋮\\\\\n",
+       "\t872731 & 5 & 145431 &  9.3 & 28.0 & 0 & 8.0 & 10.2 & 28 &  6 & 11 & 36 & 16 & 1019.9 & 1016.9 & 1 & 1 & 16.6 & 27.3 & 2\\\\\n",
+       "\t872732 & 5 & 145432 &  8.0 & 24.6 & 0 & 4.2 & 10.3 & 33 & 11 & 13 & 46 & 25 & 1021.7 & 1018.8 & 4 & 1 & 13.8 & 23.5 & 2\\\\\n",
+       "\t872733 & 5 & 145433 & 12.7 & 22.2 & 0 & 5.8 &  0.9 & 37 & 19 & 13 & 59 & 34 & 1024.3 & 1021.7 & 8 & 8 & 13.9 & 21.0 & 2\\\\\n",
+       "\t872734 & 5 & 145434 &  9.4 & 22.7 & 0 & 8.0 &  6.1 & 35 & 13 & 17 & 62 & 32 & 1026.6 & 1023.6 & 8 & 4 & 11.8 & 22.3 & 2\\\\\n",
+       "\t872735 & 5 & 145435 &  5.4 & 20.5 & 0 & 2.4 & 10.4 & 46 & 20 & 28 & 56 & 32 & 1029.2 & 1025.3 & 2 & 1 & 11.1 & 20.2 & 2\\\\\n",
+       "\t872736 & 5 & 145436 &  5.6 & 19.4 & 0 & 8.0 &  9.5 & 43 & 22 & 24 & 61 & 22 & 1029.6 & 1027.1 & 2 & 5 &  9.7 & 18.3 & 2\\\\\n",
+       "\t872737 & 5 & 145437 &  1.5 & 19.2 & 0 & 4.4 & 10.8 & 37 & 17 & 22 & 45 & 18 & 1030.7 & 1026.7 & 2 & 1 &  6.8 & 17.6 & 2\\\\\n",
+       "\t872738 & 5 & 145438 &  3.8 & 19.8 & 0 & 4.8 &  8.8 & 39 & 19 & 17 & 42 & 22 & 1028.7 & 1024.1 & 2 & 3 &  8.6 & 18.9 & 2\\\\\n",
+       "\t872739 & 5 & 145439 &  4.5 & 18.8 & 0 & 4.6 &  6.6 & 31 & 13 & 15 & 42 & 26 & 1026.9 & 1022.4 & 0 & 3 &  9.5 & 18.6 & 2\\\\\n",
+       "\t872740 & 5 & 145440 &  4.9 & 20.7 & 0 & 7.6 & 13.4 & 37 & 17 & 24 & 38 & 11 & 1027.1 & 1023.9 & 1 & 0 & 10.3 & 19.8 & 2\\\\\n",
+       "\t872741 & 5 & 145441 &  1.2 & 20.8 & 0 & 2.6 & 10.2 & 43 & 13 & 28 & 29 &  6 & 1029.8 & 1025.9 & 0 & 1 &  7.9 & 19.9 & 2\\\\\n",
+       "\t872742 & 5 & 145442 &  0.5 & 21.7 & 0 & 2.2 & 10.6 & 43 & 13 & 20 & 27 & 19 & 1029.0 & 1025.0 & 0 & 0 &  9.5 & 20.5 & 2\\\\\n",
+       "\t872743 & 5 & 145443 &  4.0 & 20.0 & 0 & 6.8 & 11.7 & 39 & 13 & 26 & 58 & 26 & 1030.2 & 1026.7 & 0 & 0 &  9.1 & 19.0 & 2\\\\\n",
+       "\t872744 & 5 & 145444 &  3.4 & 19.8 & 0 & 7.4 &  9.9 & 43 & 19 & 24 & 54 & 23 & 1031.8 & 1027.7 & 4 & 1 &  8.7 & 18.9 & 2\\\\\n",
+       "\t872745 & 5 & 145445 &  3.2 & 18.6 & 0 & 4.0 & 13.6 & 46 & 15 & 20 & 56 & 29 & 1031.0 & 1027.2 & 0 & 0 &  8.2 & 17.4 & 2\\\\\n",
+       "\t872746 & 5 & 145446 &  2.4 & 19.1 & 0 & 9.4 &  8.8 & 33 & 17 & 17 & 59 & 24 & 1030.0 & 1026.2 & 3 & 2 &  8.0 & 18.8 & 2\\\\\n",
+       "\t872747 & 5 & 145447 &  5.1 & 19.7 & 0 & 6.4 &  7.0 & 46 & 13 & 17 & 56 & 29 & 1028.5 & 1025.8 & 6 & 1 &  8.5 & 19.2 & 2\\\\\n",
+       "\t872748 & 5 & 145448 &  2.5 & 21.2 & 0 & 4.4 & 11.9 & 35 & 17 & 19 & 57 & 32 & 1027.2 & 1023.0 & 0 & 2 & 10.3 & 20.3 & 2\\\\\n",
+       "\t872749 & 5 & 145449 &  2.3 & 21.4 & 0 & 5.2 &  9.9 & 22 & 11 &  7 & 60 & 28 & 1026.9 & 1022.8 & 0 & 1 &  8.9 & 20.3 & 2\\\\\n",
+       "\t872750 & 5 & 145450 &  2.6 & 22.5 & 0 & 1.0 & 10.1 & 19 &  9 &  7 & 59 & 24 & 1025.0 & 1021.4 & 1 & 0 &  8.8 & 22.1 & 2\\\\\n",
+       "\t872751 & 5 & 145451 &  5.2 & 24.3 & 0 & 3.6 &  8.6 & 24 & 11 & 11 & 53 & 24 & 1023.8 & 1020.0 & 5 & 7 & 12.3 & 23.3 & 2\\\\\n",
+       "\t872752 & 5 & 145452 &  6.4 & 23.4 & 0 & 3.6 & 11.5 & 31 & 15 & 17 & 53 & 25 & 1025.8 & 1023.0 & 1 & 1 & 11.2 & 23.1 & 2\\\\\n",
+       "\t872753 & 5 & 145453 &  8.0 & 20.7 & 0 & 4.6 &  0.2 & 41 & 19 & 26 & 56 & 32 & 1028.1 & 1024.3 & 7 & 7 & 11.6 & 20.0 & 2\\\\\n",
+       "\t872754 & 5 & 145454 &  7.4 & 20.6 & 0 & 6.2 &  8.5 & 35 & 15 & 17 & 63 & 33 & 1027.2 & 1023.3 & 7 & 5 & 11.0 & 20.3 & 2\\\\\n",
+       "\t872755 & 5 & 145455 &  3.5 & 21.8 & 0 & 4.0 & 11.6 & 31 & 15 & 13 & 59 & 27 & 1024.7 & 1021.2 & 1 & 0 &  9.4 & 20.9 & 2\\\\\n",
+       "\t872756 & 5 & 145456 &  2.8 & 23.4 & 0 & 3.6 & 10.5 & 31 & 13 & 11 & 51 & 24 & 1024.6 & 1020.3 & 0 & 1 & 10.1 & 22.4 & 2\\\\\n",
+       "\t872757 & 5 & 145457 &  3.6 & 25.3 & 0 & 3.0 & 10.9 & 22 & 13 &  9 & 56 & 21 & 1023.5 & 1019.1 & 0 & 1 & 10.9 & 24.5 & 2\\\\\n",
+       "\t872758 & 5 & 145458 &  5.4 & 26.9 & 0 & 2.2 & 10.3 & 37 &  9 &  9 & 53 & 24 & 1021.0 & 1016.8 & 0 & 0 & 12.5 & 26.1 & 2\\\\\n",
+       "\t872759 & 5 & 145459 &  7.8 & 27.0 & 0 & 5.8 & 11.0 & 28 & 13 &  7 & 51 & 24 & 1019.4 & 1016.5 & 3 & 2 & 15.1 & 26.0 & 2\\\\\n",
+       "\t872760 & 5 & 145460 & 14.9 & 20.8 & 0 & 4.4 &  1.9 & 28 & 17 & 17 & 62 & 36 & 1020.2 & 1017.9 & 8 & 8 & 15.0 & 20.9 & 3\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A data.frame: 872760 × 19\n",
+       "\n",
+       "| <!--/--> | .imp &lt;int&gt; | .id &lt;int&gt; | MinTemp &lt;dbl&gt; | MaxTemp &lt;dbl&gt; | Rainfall &lt;dbl&gt; | Evaporation &lt;dbl&gt; | Sunshine &lt;dbl&gt; | WindGustSpeed &lt;int&gt; | WindSpeed9am &lt;int&gt; | WindSpeed3pm &lt;int&gt; | Humidity9am &lt;int&gt; | Humidity3pm &lt;int&gt; | Pressure9am &lt;dbl&gt; | Pressure3pm &lt;dbl&gt; | Cloud9am &lt;int&gt; | Cloud3pm &lt;int&gt; | Temp9am &lt;dbl&gt; | Temp3pm &lt;dbl&gt; | RainTomorrow &lt;int&gt; |\n",
+       "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n",
+       "| 1 | 0 |  1 | 13.4 | 22.9 |  0.6 | NA | NA | 44 | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 |  8 | NA | 16.9 | 21.8 | 2 |\n",
+       "| 2 | 0 |  2 |  7.4 | 25.1 |  0.0 | NA | NA | 44 |  4 | 22 | 44 | 25 | 1010.6 | 1007.8 | NA | NA | 17.2 | 24.3 | 2 |\n",
+       "| 3 | 0 |  3 | 12.9 | 25.7 |  0.0 | NA | NA | 46 | 19 | 26 | 38 | 30 | 1007.6 | 1008.7 | NA |  2 | 21.0 | 23.2 | 2 |\n",
+       "| 4 | 0 |  4 |  9.2 | 28.0 |  0.0 | NA | NA | 24 | 11 |  9 | 45 | 16 | 1017.6 | 1012.8 | NA | NA | 18.1 | 26.5 | 2 |\n",
+       "| 5 | 0 |  5 | 17.5 | 32.3 |  1.0 | NA | NA | 41 |  7 | 20 | 82 | 33 | 1010.8 | 1006.0 |  7 |  8 | 17.8 | 29.7 | 2 |\n",
+       "| 6 | 0 |  6 | 14.6 | 29.7 |  0.2 | NA | NA | 56 | 19 | 24 | 55 | 23 | 1009.2 | 1005.4 | NA | NA | 20.6 | 28.9 | 2 |\n",
+       "| 7 | 0 |  7 | 14.3 | 25.0 |  0.0 | NA | NA | 50 | 20 | 24 | 49 | 19 | 1009.6 | 1008.2 |  1 | NA | 18.1 | 24.6 | 2 |\n",
+       "| 8 | 0 |  8 |  7.7 | 26.7 |  0.0 | NA | NA | 35 |  6 | 17 | 48 | 19 | 1013.4 | 1010.1 | NA | NA | 16.3 | 25.5 | 2 |\n",
+       "| 9 | 0 |  9 |  9.7 | 31.9 |  0.0 | NA | NA | 80 |  7 | 28 | 42 |  9 | 1008.9 | 1003.6 | NA | NA | 18.3 | 30.2 | 1 |\n",
+       "| 10 | 0 | 10 | 13.1 | 30.1 |  1.4 | NA | NA | 28 | 15 | 11 | 58 | 27 | 1007.0 | 1005.7 | NA | NA | 20.1 | 28.2 | 2 |\n",
+       "| 11 | 0 | 11 | 13.4 | 30.4 |  0.0 | NA | NA | 30 | 17 |  6 | 48 | 22 | 1011.8 | 1008.7 | NA | NA | 20.4 | 28.8 | 1 |\n",
+       "| 12 | 0 | 12 | 15.9 | 21.7 |  2.2 | NA | NA | 31 | 15 | 13 | 89 | 91 | 1010.5 | 1004.2 |  8 |  8 | 15.9 | 17.0 | 1 |\n",
+       "| 13 | 0 | 13 | 15.9 | 18.6 | 15.6 | NA | NA | 61 | 28 | 28 | 76 | 93 |  994.3 |  993.0 |  8 |  8 | 17.4 | 15.8 | 1 |\n",
+       "| 14 | 0 | 14 | 12.6 | 21.0 |  3.6 | NA | NA | 44 | 24 | 20 | 65 | 43 | 1001.2 | 1001.8 | NA |  7 | 15.8 | 19.8 | 2 |\n",
+       "| 15 | 0 | 15 |  8.4 | 24.6 |  0.0 | NA | NA | NA |  4 | 30 | 57 | 32 | 1009.7 | 1008.7 | NA | NA | 15.9 | 23.5 | 3 |\n",
+       "| 16 | 0 | 16 |  9.8 | 27.7 |   NA | NA | NA | 50 | NA | 22 | 50 | 28 | 1013.4 | 1010.3 |  0 | NA | 17.3 | 26.2 | 2 |\n",
+       "| 17 | 0 | 17 | 14.1 | 20.9 |  0.0 | NA | NA | 22 | 11 |  9 | 69 | 82 | 1012.2 | 1010.4 |  8 |  1 | 17.2 | 18.1 | 1 |\n",
+       "| 18 | 0 | 18 | 13.5 | 22.9 | 16.8 | NA | NA | 63 |  6 | 20 | 80 | 65 | 1005.8 | 1002.2 |  8 |  1 | 18.0 | 21.5 | 1 |\n",
+       "| 19 | 0 | 19 | 11.2 | 22.5 | 10.6 | NA | NA | 43 | 24 | 17 | 47 | 32 | 1009.4 | 1009.7 | NA |  2 | 15.5 | 21.0 | 2 |\n",
+       "| 20 | 0 | 20 |  9.8 | 25.6 |  0.0 | NA | NA | 26 | 17 |  6 | 45 | 26 | 1019.2 | 1017.1 | NA | NA | 15.8 | 23.2 | 2 |\n",
+       "| 21 | 0 | 21 | 11.5 | 29.3 |  0.0 | NA | NA | 24 |  9 |  9 | 56 | 28 | 1019.3 | 1014.8 | NA | NA | 19.1 | 27.3 | 2 |\n",
+       "| 22 | 0 | 22 | 17.1 | 33.0 |  0.0 | NA | NA | 43 | 17 | 22 | 38 | 28 | 1013.6 | 1008.1 | NA |  1 | 24.5 | 31.6 | 2 |\n",
+       "| 23 | 0 | 23 | 20.5 | 31.8 |  0.0 | NA | NA | 41 | 19 | 20 | 54 | 24 | 1007.8 | 1005.7 | NA | NA | 23.8 | 30.8 | 2 |\n",
+       "| 24 | 0 | 24 | 15.3 | 30.9 |  0.0 | NA | NA | 33 |  6 | 13 | 55 | 23 | 1011.0 | 1008.2 |  5 | NA | 20.9 | 29.0 | 2 |\n",
+       "| 25 | 0 | 25 | 12.6 | 32.4 |  0.0 | NA | NA | 43 |  4 | 19 | 49 | 17 | 1012.9 | 1010.1 | NA | NA | 21.5 | 31.2 | 2 |\n",
+       "| 26 | 0 | 26 | 16.2 | 33.9 |  0.0 | NA | NA | 35 |  9 | 13 | 45 | 19 | 1010.9 | 1007.6 | NA |  1 | 23.2 | 33.0 | 2 |\n",
+       "| 27 | 0 | 27 | 16.9 | 33.0 |  0.0 | NA | NA | 57 |  0 | 26 | 41 | 28 | 1006.8 | 1003.6 | NA |  1 | 26.6 | 31.2 | 2 |\n",
+       "| 28 | 0 | 28 | 20.1 | 32.7 |  0.0 | NA | NA | 48 | 13 | 30 | 56 | 15 | 1005.2 | 1001.7 | NA | NA | 24.6 | 32.1 | 2 |\n",
+       "| 29 | 0 | 29 | 19.7 | 27.2 |  0.0 | NA | NA | 46 | 19 | 30 | 49 | 22 | 1004.8 | 1004.2 | NA | NA | 21.6 | 26.1 | 1 |\n",
+       "| 30 | 0 | 30 | 12.5 | 24.2 |  1.2 | NA | NA | 50 | 11 | 22 | 78 | 70 | 1005.6 | 1003.4 |  8 |  8 | 12.5 | 18.2 | 2 |\n",
+       "| ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ | ⋮ |\n",
+       "| 872731 | 5 | 145431 |  9.3 | 28.0 | 0 | 8.0 | 10.2 | 28 |  6 | 11 | 36 | 16 | 1019.9 | 1016.9 | 1 | 1 | 16.6 | 27.3 | 2 |\n",
+       "| 872732 | 5 | 145432 |  8.0 | 24.6 | 0 | 4.2 | 10.3 | 33 | 11 | 13 | 46 | 25 | 1021.7 | 1018.8 | 4 | 1 | 13.8 | 23.5 | 2 |\n",
+       "| 872733 | 5 | 145433 | 12.7 | 22.2 | 0 | 5.8 |  0.9 | 37 | 19 | 13 | 59 | 34 | 1024.3 | 1021.7 | 8 | 8 | 13.9 | 21.0 | 2 |\n",
+       "| 872734 | 5 | 145434 |  9.4 | 22.7 | 0 | 8.0 |  6.1 | 35 | 13 | 17 | 62 | 32 | 1026.6 | 1023.6 | 8 | 4 | 11.8 | 22.3 | 2 |\n",
+       "| 872735 | 5 | 145435 |  5.4 | 20.5 | 0 | 2.4 | 10.4 | 46 | 20 | 28 | 56 | 32 | 1029.2 | 1025.3 | 2 | 1 | 11.1 | 20.2 | 2 |\n",
+       "| 872736 | 5 | 145436 |  5.6 | 19.4 | 0 | 8.0 |  9.5 | 43 | 22 | 24 | 61 | 22 | 1029.6 | 1027.1 | 2 | 5 |  9.7 | 18.3 | 2 |\n",
+       "| 872737 | 5 | 145437 |  1.5 | 19.2 | 0 | 4.4 | 10.8 | 37 | 17 | 22 | 45 | 18 | 1030.7 | 1026.7 | 2 | 1 |  6.8 | 17.6 | 2 |\n",
+       "| 872738 | 5 | 145438 |  3.8 | 19.8 | 0 | 4.8 |  8.8 | 39 | 19 | 17 | 42 | 22 | 1028.7 | 1024.1 | 2 | 3 |  8.6 | 18.9 | 2 |\n",
+       "| 872739 | 5 | 145439 |  4.5 | 18.8 | 0 | 4.6 |  6.6 | 31 | 13 | 15 | 42 | 26 | 1026.9 | 1022.4 | 0 | 3 |  9.5 | 18.6 | 2 |\n",
+       "| 872740 | 5 | 145440 |  4.9 | 20.7 | 0 | 7.6 | 13.4 | 37 | 17 | 24 | 38 | 11 | 1027.1 | 1023.9 | 1 | 0 | 10.3 | 19.8 | 2 |\n",
+       "| 872741 | 5 | 145441 |  1.2 | 20.8 | 0 | 2.6 | 10.2 | 43 | 13 | 28 | 29 |  6 | 1029.8 | 1025.9 | 0 | 1 |  7.9 | 19.9 | 2 |\n",
+       "| 872742 | 5 | 145442 |  0.5 | 21.7 | 0 | 2.2 | 10.6 | 43 | 13 | 20 | 27 | 19 | 1029.0 | 1025.0 | 0 | 0 |  9.5 | 20.5 | 2 |\n",
+       "| 872743 | 5 | 145443 |  4.0 | 20.0 | 0 | 6.8 | 11.7 | 39 | 13 | 26 | 58 | 26 | 1030.2 | 1026.7 | 0 | 0 |  9.1 | 19.0 | 2 |\n",
+       "| 872744 | 5 | 145444 |  3.4 | 19.8 | 0 | 7.4 |  9.9 | 43 | 19 | 24 | 54 | 23 | 1031.8 | 1027.7 | 4 | 1 |  8.7 | 18.9 | 2 |\n",
+       "| 872745 | 5 | 145445 |  3.2 | 18.6 | 0 | 4.0 | 13.6 | 46 | 15 | 20 | 56 | 29 | 1031.0 | 1027.2 | 0 | 0 |  8.2 | 17.4 | 2 |\n",
+       "| 872746 | 5 | 145446 |  2.4 | 19.1 | 0 | 9.4 |  8.8 | 33 | 17 | 17 | 59 | 24 | 1030.0 | 1026.2 | 3 | 2 |  8.0 | 18.8 | 2 |\n",
+       "| 872747 | 5 | 145447 |  5.1 | 19.7 | 0 | 6.4 |  7.0 | 46 | 13 | 17 | 56 | 29 | 1028.5 | 1025.8 | 6 | 1 |  8.5 | 19.2 | 2 |\n",
+       "| 872748 | 5 | 145448 |  2.5 | 21.2 | 0 | 4.4 | 11.9 | 35 | 17 | 19 | 57 | 32 | 1027.2 | 1023.0 | 0 | 2 | 10.3 | 20.3 | 2 |\n",
+       "| 872749 | 5 | 145449 |  2.3 | 21.4 | 0 | 5.2 |  9.9 | 22 | 11 |  7 | 60 | 28 | 1026.9 | 1022.8 | 0 | 1 |  8.9 | 20.3 | 2 |\n",
+       "| 872750 | 5 | 145450 |  2.6 | 22.5 | 0 | 1.0 | 10.1 | 19 |  9 |  7 | 59 | 24 | 1025.0 | 1021.4 | 1 | 0 |  8.8 | 22.1 | 2 |\n",
+       "| 872751 | 5 | 145451 |  5.2 | 24.3 | 0 | 3.6 |  8.6 | 24 | 11 | 11 | 53 | 24 | 1023.8 | 1020.0 | 5 | 7 | 12.3 | 23.3 | 2 |\n",
+       "| 872752 | 5 | 145452 |  6.4 | 23.4 | 0 | 3.6 | 11.5 | 31 | 15 | 17 | 53 | 25 | 1025.8 | 1023.0 | 1 | 1 | 11.2 | 23.1 | 2 |\n",
+       "| 872753 | 5 | 145453 |  8.0 | 20.7 | 0 | 4.6 |  0.2 | 41 | 19 | 26 | 56 | 32 | 1028.1 | 1024.3 | 7 | 7 | 11.6 | 20.0 | 2 |\n",
+       "| 872754 | 5 | 145454 |  7.4 | 20.6 | 0 | 6.2 |  8.5 | 35 | 15 | 17 | 63 | 33 | 1027.2 | 1023.3 | 7 | 5 | 11.0 | 20.3 | 2 |\n",
+       "| 872755 | 5 | 145455 |  3.5 | 21.8 | 0 | 4.0 | 11.6 | 31 | 15 | 13 | 59 | 27 | 1024.7 | 1021.2 | 1 | 0 |  9.4 | 20.9 | 2 |\n",
+       "| 872756 | 5 | 145456 |  2.8 | 23.4 | 0 | 3.6 | 10.5 | 31 | 13 | 11 | 51 | 24 | 1024.6 | 1020.3 | 0 | 1 | 10.1 | 22.4 | 2 |\n",
+       "| 872757 | 5 | 145457 |  3.6 | 25.3 | 0 | 3.0 | 10.9 | 22 | 13 |  9 | 56 | 21 | 1023.5 | 1019.1 | 0 | 1 | 10.9 | 24.5 | 2 |\n",
+       "| 872758 | 5 | 145458 |  5.4 | 26.9 | 0 | 2.2 | 10.3 | 37 |  9 |  9 | 53 | 24 | 1021.0 | 1016.8 | 0 | 0 | 12.5 | 26.1 | 2 |\n",
+       "| 872759 | 5 | 145459 |  7.8 | 27.0 | 0 | 5.8 | 11.0 | 28 | 13 |  7 | 51 | 24 | 1019.4 | 1016.5 | 3 | 2 | 15.1 | 26.0 | 2 |\n",
+       "| 872760 | 5 | 145460 | 14.9 | 20.8 | 0 | 4.4 |  1.9 | 28 | 17 | 17 | 62 | 36 | 1020.2 | 1017.9 | 8 | 8 | 15.0 | 20.9 | 3 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "       .imp .id    MinTemp MaxTemp Rainfall Evaporation Sunshine WindGustSpeed\n",
+       "1      0     1     13.4    22.9     0.6     NA          NA       44           \n",
+       "2      0     2      7.4    25.1     0.0     NA          NA       44           \n",
+       "3      0     3     12.9    25.7     0.0     NA          NA       46           \n",
+       "4      0     4      9.2    28.0     0.0     NA          NA       24           \n",
+       "5      0     5     17.5    32.3     1.0     NA          NA       41           \n",
+       "6      0     6     14.6    29.7     0.2     NA          NA       56           \n",
+       "7      0     7     14.3    25.0     0.0     NA          NA       50           \n",
+       "8      0     8      7.7    26.7     0.0     NA          NA       35           \n",
+       "9      0     9      9.7    31.9     0.0     NA          NA       80           \n",
+       "10     0    10     13.1    30.1     1.4     NA          NA       28           \n",
+       "11     0    11     13.4    30.4     0.0     NA          NA       30           \n",
+       "12     0    12     15.9    21.7     2.2     NA          NA       31           \n",
+       "13     0    13     15.9    18.6    15.6     NA          NA       61           \n",
+       "14     0    14     12.6    21.0     3.6     NA          NA       44           \n",
+       "15     0    15      8.4    24.6     0.0     NA          NA       NA           \n",
+       "16     0    16      9.8    27.7      NA     NA          NA       50           \n",
+       "17     0    17     14.1    20.9     0.0     NA          NA       22           \n",
+       "18     0    18     13.5    22.9    16.8     NA          NA       63           \n",
+       "19     0    19     11.2    22.5    10.6     NA          NA       43           \n",
+       "20     0    20      9.8    25.6     0.0     NA          NA       26           \n",
+       "21     0    21     11.5    29.3     0.0     NA          NA       24           \n",
+       "22     0    22     17.1    33.0     0.0     NA          NA       43           \n",
+       "23     0    23     20.5    31.8     0.0     NA          NA       41           \n",
+       "24     0    24     15.3    30.9     0.0     NA          NA       33           \n",
+       "25     0    25     12.6    32.4     0.0     NA          NA       43           \n",
+       "26     0    26     16.2    33.9     0.0     NA          NA       35           \n",
+       "27     0    27     16.9    33.0     0.0     NA          NA       57           \n",
+       "28     0    28     20.1    32.7     0.0     NA          NA       48           \n",
+       "29     0    29     19.7    27.2     0.0     NA          NA       46           \n",
+       "30     0    30     12.5    24.2     1.2     NA          NA       50           \n",
+       "⋮      ⋮    ⋮      ⋮       ⋮       ⋮        ⋮           ⋮        ⋮            \n",
+       "872731 5    145431  9.3    28.0    0        8.0         10.2     28           \n",
+       "872732 5    145432  8.0    24.6    0        4.2         10.3     33           \n",
+       "872733 5    145433 12.7    22.2    0        5.8          0.9     37           \n",
+       "872734 5    145434  9.4    22.7    0        8.0          6.1     35           \n",
+       "872735 5    145435  5.4    20.5    0        2.4         10.4     46           \n",
+       "872736 5    145436  5.6    19.4    0        8.0          9.5     43           \n",
+       "872737 5    145437  1.5    19.2    0        4.4         10.8     37           \n",
+       "872738 5    145438  3.8    19.8    0        4.8          8.8     39           \n",
+       "872739 5    145439  4.5    18.8    0        4.6          6.6     31           \n",
+       "872740 5    145440  4.9    20.7    0        7.6         13.4     37           \n",
+       "872741 5    145441  1.2    20.8    0        2.6         10.2     43           \n",
+       "872742 5    145442  0.5    21.7    0        2.2         10.6     43           \n",
+       "872743 5    145443  4.0    20.0    0        6.8         11.7     39           \n",
+       "872744 5    145444  3.4    19.8    0        7.4          9.9     43           \n",
+       "872745 5    145445  3.2    18.6    0        4.0         13.6     46           \n",
+       "872746 5    145446  2.4    19.1    0        9.4          8.8     33           \n",
+       "872747 5    145447  5.1    19.7    0        6.4          7.0     46           \n",
+       "872748 5    145448  2.5    21.2    0        4.4         11.9     35           \n",
+       "872749 5    145449  2.3    21.4    0        5.2          9.9     22           \n",
+       "872750 5    145450  2.6    22.5    0        1.0         10.1     19           \n",
+       "872751 5    145451  5.2    24.3    0        3.6          8.6     24           \n",
+       "872752 5    145452  6.4    23.4    0        3.6         11.5     31           \n",
+       "872753 5    145453  8.0    20.7    0        4.6          0.2     41           \n",
+       "872754 5    145454  7.4    20.6    0        6.2          8.5     35           \n",
+       "872755 5    145455  3.5    21.8    0        4.0         11.6     31           \n",
+       "872756 5    145456  2.8    23.4    0        3.6         10.5     31           \n",
+       "872757 5    145457  3.6    25.3    0        3.0         10.9     22           \n",
+       "872758 5    145458  5.4    26.9    0        2.2         10.3     37           \n",
+       "872759 5    145459  7.8    27.0    0        5.8         11.0     28           \n",
+       "872760 5    145460 14.9    20.8    0        4.4          1.9     28           \n",
+       "       WindSpeed9am WindSpeed3pm Humidity9am Humidity3pm Pressure9am\n",
+       "1      20           24           71          22          1007.7     \n",
+       "2       4           22           44          25          1010.6     \n",
+       "3      19           26           38          30          1007.6     \n",
+       "4      11            9           45          16          1017.6     \n",
+       "5       7           20           82          33          1010.8     \n",
+       "6      19           24           55          23          1009.2     \n",
+       "7      20           24           49          19          1009.6     \n",
+       "8       6           17           48          19          1013.4     \n",
+       "9       7           28           42           9          1008.9     \n",
+       "10     15           11           58          27          1007.0     \n",
+       "11     17            6           48          22          1011.8     \n",
+       "12     15           13           89          91          1010.5     \n",
+       "13     28           28           76          93           994.3     \n",
+       "14     24           20           65          43          1001.2     \n",
+       "15      4           30           57          32          1009.7     \n",
+       "16     NA           22           50          28          1013.4     \n",
+       "17     11            9           69          82          1012.2     \n",
+       "18      6           20           80          65          1005.8     \n",
+       "19     24           17           47          32          1009.4     \n",
+       "20     17            6           45          26          1019.2     \n",
+       "21      9            9           56          28          1019.3     \n",
+       "22     17           22           38          28          1013.6     \n",
+       "23     19           20           54          24          1007.8     \n",
+       "24      6           13           55          23          1011.0     \n",
+       "25      4           19           49          17          1012.9     \n",
+       "26      9           13           45          19          1010.9     \n",
+       "27      0           26           41          28          1006.8     \n",
+       "28     13           30           56          15          1005.2     \n",
+       "29     19           30           49          22          1004.8     \n",
+       "30     11           22           78          70          1005.6     \n",
+       "⋮      ⋮            ⋮            ⋮           ⋮           ⋮          \n",
+       "872731  6           11           36          16          1019.9     \n",
+       "872732 11           13           46          25          1021.7     \n",
+       "872733 19           13           59          34          1024.3     \n",
+       "872734 13           17           62          32          1026.6     \n",
+       "872735 20           28           56          32          1029.2     \n",
+       "872736 22           24           61          22          1029.6     \n",
+       "872737 17           22           45          18          1030.7     \n",
+       "872738 19           17           42          22          1028.7     \n",
+       "872739 13           15           42          26          1026.9     \n",
+       "872740 17           24           38          11          1027.1     \n",
+       "872741 13           28           29           6          1029.8     \n",
+       "872742 13           20           27          19          1029.0     \n",
+       "872743 13           26           58          26          1030.2     \n",
+       "872744 19           24           54          23          1031.8     \n",
+       "872745 15           20           56          29          1031.0     \n",
+       "872746 17           17           59          24          1030.0     \n",
+       "872747 13           17           56          29          1028.5     \n",
+       "872748 17           19           57          32          1027.2     \n",
+       "872749 11            7           60          28          1026.9     \n",
+       "872750  9            7           59          24          1025.0     \n",
+       "872751 11           11           53          24          1023.8     \n",
+       "872752 15           17           53          25          1025.8     \n",
+       "872753 19           26           56          32          1028.1     \n",
+       "872754 15           17           63          33          1027.2     \n",
+       "872755 15           13           59          27          1024.7     \n",
+       "872756 13           11           51          24          1024.6     \n",
+       "872757 13            9           56          21          1023.5     \n",
+       "872758  9            9           53          24          1021.0     \n",
+       "872759 13            7           51          24          1019.4     \n",
+       "872760 17           17           62          36          1020.2     \n",
+       "       Pressure3pm Cloud9am Cloud3pm Temp9am Temp3pm RainTomorrow\n",
+       "1      1007.1       8       NA       16.9    21.8    2           \n",
+       "2      1007.8      NA       NA       17.2    24.3    2           \n",
+       "3      1008.7      NA        2       21.0    23.2    2           \n",
+       "4      1012.8      NA       NA       18.1    26.5    2           \n",
+       "5      1006.0       7        8       17.8    29.7    2           \n",
+       "6      1005.4      NA       NA       20.6    28.9    2           \n",
+       "7      1008.2       1       NA       18.1    24.6    2           \n",
+       "8      1010.1      NA       NA       16.3    25.5    2           \n",
+       "9      1003.6      NA       NA       18.3    30.2    1           \n",
+       "10     1005.7      NA       NA       20.1    28.2    2           \n",
+       "11     1008.7      NA       NA       20.4    28.8    1           \n",
+       "12     1004.2       8        8       15.9    17.0    1           \n",
+       "13      993.0       8        8       17.4    15.8    1           \n",
+       "14     1001.8      NA        7       15.8    19.8    2           \n",
+       "15     1008.7      NA       NA       15.9    23.5    3           \n",
+       "16     1010.3       0       NA       17.3    26.2    2           \n",
+       "17     1010.4       8        1       17.2    18.1    1           \n",
+       "18     1002.2       8        1       18.0    21.5    1           \n",
+       "19     1009.7      NA        2       15.5    21.0    2           \n",
+       "20     1017.1      NA       NA       15.8    23.2    2           \n",
+       "21     1014.8      NA       NA       19.1    27.3    2           \n",
+       "22     1008.1      NA        1       24.5    31.6    2           \n",
+       "23     1005.7      NA       NA       23.8    30.8    2           \n",
+       "24     1008.2       5       NA       20.9    29.0    2           \n",
+       "25     1010.1      NA       NA       21.5    31.2    2           \n",
+       "26     1007.6      NA        1       23.2    33.0    2           \n",
+       "27     1003.6      NA        1       26.6    31.2    2           \n",
+       "28     1001.7      NA       NA       24.6    32.1    2           \n",
+       "29     1004.2      NA       NA       21.6    26.1    1           \n",
+       "30     1003.4       8        8       12.5    18.2    2           \n",
+       "⋮      ⋮           ⋮        ⋮        ⋮       ⋮       ⋮           \n",
+       "872731 1016.9      1        1        16.6    27.3    2           \n",
+       "872732 1018.8      4        1        13.8    23.5    2           \n",
+       "872733 1021.7      8        8        13.9    21.0    2           \n",
+       "872734 1023.6      8        4        11.8    22.3    2           \n",
+       "872735 1025.3      2        1        11.1    20.2    2           \n",
+       "872736 1027.1      2        5         9.7    18.3    2           \n",
+       "872737 1026.7      2        1         6.8    17.6    2           \n",
+       "872738 1024.1      2        3         8.6    18.9    2           \n",
+       "872739 1022.4      0        3         9.5    18.6    2           \n",
+       "872740 1023.9      1        0        10.3    19.8    2           \n",
+       "872741 1025.9      0        1         7.9    19.9    2           \n",
+       "872742 1025.0      0        0         9.5    20.5    2           \n",
+       "872743 1026.7      0        0         9.1    19.0    2           \n",
+       "872744 1027.7      4        1         8.7    18.9    2           \n",
+       "872745 1027.2      0        0         8.2    17.4    2           \n",
+       "872746 1026.2      3        2         8.0    18.8    2           \n",
+       "872747 1025.8      6        1         8.5    19.2    2           \n",
+       "872748 1023.0      0        2        10.3    20.3    2           \n",
+       "872749 1022.8      0        1         8.9    20.3    2           \n",
+       "872750 1021.4      1        0         8.8    22.1    2           \n",
+       "872751 1020.0      5        7        12.3    23.3    2           \n",
+       "872752 1023.0      1        1        11.2    23.1    2           \n",
+       "872753 1024.3      7        7        11.6    20.0    2           \n",
+       "872754 1023.3      7        5        11.0    20.3    2           \n",
+       "872755 1021.2      1        0         9.4    20.9    2           \n",
+       "872756 1020.3      0        1        10.1    22.4    2           \n",
+       "872757 1019.1      0        1        10.9    24.5    2           \n",
+       "872758 1016.8      0        0        12.5    26.1    2           \n",
+       "872759 1016.5      3        2        15.1    26.0    2           \n",
+       "872760 1017.9      8        8        15.0    20.9    3           "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "imputer_2"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 21,
+   "id": "c9052e0d",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-21T12:30:03.044261Z",
+     "iopub.status.busy": "2023-02-21T12:30:03.042658Z",
+     "iopub.status.idle": "2023-02-21T12:30:05.568490Z",
+     "shell.execute_reply": "2023-02-21T12:30:05.565313Z"
+    },
+    "papermill": {
+     "duration": 2.54556,
+     "end_time": "2023-02-21T12:30:05.572249",
+     "exception": false,
+     "start_time": "2023-02-21T12:30:03.026689",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "image/png": "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\nFKs2eZTnVKEAAAAASUVORK5CYII="
+     },
+     "metadata": {
+      "image/png": {
+       "height": 420,
+       "width": 420
+      }
+     },
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "pbox(imputer_2,pos=1,cex=0.7)"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
-   "id": "78577b59",
+   "id": "576f3eac",
    "metadata": {
     "papermill": {
-     "duration": 0.012595,
-     "end_time": "2023-02-21T12:24:00.134357",
+     "duration": 0.015306,
+     "end_time": "2023-02-21T12:30:05.603570",
      "exception": false,
-     "start_time": "2023-02-21T12:24:00.121762",
+     "start_time": "2023-02-21T12:30:05.588264",
      "status": "completed"
     },
     "tags": []
@@ -2027,14 +2520,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 261.735959,
-   "end_time": "2023-02-21T12:24:00.270351",
+   "duration": 257.852586,
+   "end_time": "2023-02-21T12:30:05.841740",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-02-21T12:19:38.534392",
+   "start_time": "2023-02-21T12:25:47.989154",
    "version": "2.4.0"
   }
  },

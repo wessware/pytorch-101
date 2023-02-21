@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "69551794",
+   "id": "9e79aea6",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:00.314300Z",
-     "iopub.status.busy": "2023-02-21T12:14:00.312349Z",
-     "iopub.status.idle": "2023-02-21T12:14:01.795224Z",
-     "shell.execute_reply": "2023-02-21T12:14:01.793329Z"
+     "iopub.execute_input": "2023-02-21T12:19:42.408422Z",
+     "iopub.status.busy": "2023-02-21T12:19:42.405039Z",
+     "iopub.status.idle": "2023-02-21T12:19:43.960417Z",
+     "shell.execute_reply": "2023-02-21T12:19:43.958443Z"
     },
     "papermill": {
-     "duration": 1.49319,
-     "end_time": "2023-02-21T12:14:01.798651",
+     "duration": 1.568025,
+     "end_time": "2023-02-21T12:19:43.964070",
      "exception": false,
-     "start_time": "2023-02-21T12:14:00.305461",
+     "start_time": "2023-02-21T12:19:42.396045",
      "status": "completed"
     },
     "tags": []
@@ -30,19 +30,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "c3271475",
+   "id": "34edaf5d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:01.837254Z",
-     "iopub.status.busy": "2023-02-21T12:14:01.808017Z",
-     "iopub.status.idle": "2023-02-21T12:14:02.127828Z",
-     "shell.execute_reply": "2023-02-21T12:14:02.125968Z"
+     "iopub.execute_input": "2023-02-21T12:19:44.005810Z",
+     "iopub.status.busy": "2023-02-21T12:19:43.975072Z",
+     "iopub.status.idle": "2023-02-21T12:19:44.354269Z",
+     "shell.execute_reply": "2023-02-21T12:19:44.352294Z"
     },
     "papermill": {
-     "duration": 0.327624,
-     "end_time": "2023-02-21T12:14:02.130155",
+     "duration": 0.387945,
+     "end_time": "2023-02-21T12:19:44.356842",
      "exception": false,
-     "start_time": "2023-02-21T12:14:01.802531",
+     "start_time": "2023-02-21T12:19:43.968897",
      "status": "completed"
     },
     "tags": []
@@ -76,19 +76,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "0a091213",
+   "id": "736a1e8d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:02.141584Z",
-     "iopub.status.busy": "2023-02-21T12:14:02.140050Z",
-     "iopub.status.idle": "2023-02-21T12:14:03.985010Z",
-     "shell.execute_reply": "2023-02-21T12:14:03.983160Z"
+     "iopub.execute_input": "2023-02-21T12:19:44.370601Z",
+     "iopub.status.busy": "2023-02-21T12:19:44.368870Z",
+     "iopub.status.idle": "2023-02-21T12:19:46.347630Z",
+     "shell.execute_reply": "2023-02-21T12:19:46.345749Z"
     },
     "papermill": {
-     "duration": 1.853645,
-     "end_time": "2023-02-21T12:14:03.988078",
+     "duration": 1.989207,
+     "end_time": "2023-02-21T12:19:46.350762",
      "exception": false,
-     "start_time": "2023-02-21T12:14:02.134433",
+     "start_time": "2023-02-21T12:19:44.361555",
      "status": "completed"
     },
     "tags": []
@@ -126,19 +126,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "bb49ccf4",
+   "id": "bafbc24a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:04.000684Z",
-     "iopub.status.busy": "2023-02-21T12:14:03.998530Z",
-     "iopub.status.idle": "2023-02-21T12:14:04.049551Z",
-     "shell.execute_reply": "2023-02-21T12:14:04.046821Z"
+     "iopub.execute_input": "2023-02-21T12:19:46.364834Z",
+     "iopub.status.busy": "2023-02-21T12:19:46.362818Z",
+     "iopub.status.idle": "2023-02-21T12:19:46.414024Z",
+     "shell.execute_reply": "2023-02-21T12:19:46.412159Z"
     },
     "papermill": {
-     "duration": 0.06018,
-     "end_time": "2023-02-21T12:14:04.052669",
+     "duration": 0.060857,
+     "end_time": "2023-02-21T12:19:46.416788",
      "exception": false,
-     "start_time": "2023-02-21T12:14:03.992489",
+     "start_time": "2023-02-21T12:19:46.355931",
      "status": "completed"
     },
     "tags": []
@@ -250,19 +250,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "4d116de7",
+   "id": "f694c21e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:04.065419Z",
-     "iopub.status.busy": "2023-02-21T12:14:04.063943Z",
-     "iopub.status.idle": "2023-02-21T12:14:04.084121Z",
-     "shell.execute_reply": "2023-02-21T12:14:04.081742Z"
+     "iopub.execute_input": "2023-02-21T12:19:46.431646Z",
+     "iopub.status.busy": "2023-02-21T12:19:46.430044Z",
+     "iopub.status.idle": "2023-02-21T12:19:46.448540Z",
+     "shell.execute_reply": "2023-02-21T12:19:46.446772Z"
     },
     "papermill": {
-     "duration": 0.029787,
-     "end_time": "2023-02-21T12:14:04.087297",
+     "duration": 0.028036,
+     "end_time": "2023-02-21T12:19:46.450923",
      "exception": false,
-     "start_time": "2023-02-21T12:14:04.057510",
+     "start_time": "2023-02-21T12:19:46.422887",
      "status": "completed"
     },
     "tags": []
@@ -352,19 +352,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "42836ce3",
+   "id": "15b55571",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:04.100637Z",
-     "iopub.status.busy": "2023-02-21T12:14:04.099145Z",
-     "iopub.status.idle": "2023-02-21T12:14:04.113681Z",
-     "shell.execute_reply": "2023-02-21T12:14:04.111967Z"
+     "iopub.execute_input": "2023-02-21T12:19:46.465964Z",
+     "iopub.status.busy": "2023-02-21T12:19:46.464414Z",
+     "iopub.status.idle": "2023-02-21T12:19:46.480547Z",
+     "shell.execute_reply": "2023-02-21T12:19:46.478670Z"
     },
     "papermill": {
-     "duration": 0.024362,
-     "end_time": "2023-02-21T12:14:04.116789",
+     "duration": 0.026315,
+     "end_time": "2023-02-21T12:19:46.483129",
      "exception": false,
-     "start_time": "2023-02-21T12:14:04.092427",
+     "start_time": "2023-02-21T12:19:46.456814",
      "status": "completed"
     },
     "tags": []
@@ -383,19 +383,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "c3a8eee5",
+   "id": "12e9f441",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:04.129795Z",
-     "iopub.status.busy": "2023-02-21T12:14:04.128327Z",
-     "iopub.status.idle": "2023-02-21T12:14:04.146719Z",
-     "shell.execute_reply": "2023-02-21T12:14:04.144965Z"
+     "iopub.execute_input": "2023-02-21T12:19:46.497625Z",
+     "iopub.status.busy": "2023-02-21T12:19:46.495909Z",
+     "iopub.status.idle": "2023-02-21T12:19:46.516417Z",
+     "shell.execute_reply": "2023-02-21T12:19:46.514157Z"
     },
     "papermill": {
-     "duration": 0.027495,
-     "end_time": "2023-02-21T12:14:04.149127",
+     "duration": 0.030939,
+     "end_time": "2023-02-21T12:19:46.519589",
      "exception": false,
-     "start_time": "2023-02-21T12:14:04.121632",
+     "start_time": "2023-02-21T12:19:46.488650",
      "status": "completed"
     },
     "tags": []
@@ -427,19 +427,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "e9205656",
+   "id": "7f4dca9a",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:04.163136Z",
-     "iopub.status.busy": "2023-02-21T12:14:04.161541Z",
-     "iopub.status.idle": "2023-02-21T12:14:04.194300Z",
-     "shell.execute_reply": "2023-02-21T12:14:04.192518Z"
+     "iopub.execute_input": "2023-02-21T12:19:46.534221Z",
+     "iopub.status.busy": "2023-02-21T12:19:46.532592Z",
+     "iopub.status.idle": "2023-02-21T12:19:46.569270Z",
+     "shell.execute_reply": "2023-02-21T12:19:46.566978Z"
     },
     "papermill": {
-     "duration": 0.042401,
-     "end_time": "2023-02-21T12:14:04.196811",
+     "duration": 0.047308,
+     "end_time": "2023-02-21T12:19:46.572468",
      "exception": false,
-     "start_time": "2023-02-21T12:14:04.154410",
+     "start_time": "2023-02-21T12:19:46.525160",
      "status": "completed"
     },
     "tags": []
@@ -471,19 +471,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "6fffff1a",
+   "id": "8ca4e443",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:04.210458Z",
-     "iopub.status.busy": "2023-02-21T12:14:04.208881Z",
-     "iopub.status.idle": "2023-02-21T12:14:04.226367Z",
-     "shell.execute_reply": "2023-02-21T12:14:04.224602Z"
+     "iopub.execute_input": "2023-02-21T12:19:46.587415Z",
+     "iopub.status.busy": "2023-02-21T12:19:46.585883Z",
+     "iopub.status.idle": "2023-02-21T12:19:46.603722Z",
+     "shell.execute_reply": "2023-02-21T12:19:46.601983Z"
     },
     "papermill": {
-     "duration": 0.026685,
-     "end_time": "2023-02-21T12:14:04.228658",
+     "duration": 0.028129,
+     "end_time": "2023-02-21T12:19:46.606389",
      "exception": false,
-     "start_time": "2023-02-21T12:14:04.201973",
+     "start_time": "2023-02-21T12:19:46.578260",
      "status": "completed"
     },
     "tags": []
@@ -515,19 +515,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "241046dc",
+   "id": "5daa2f0e",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:04.242585Z",
-     "iopub.status.busy": "2023-02-21T12:14:04.241010Z",
-     "iopub.status.idle": "2023-02-21T12:14:04.275728Z",
-     "shell.execute_reply": "2023-02-21T12:14:04.273877Z"
+     "iopub.execute_input": "2023-02-21T12:19:46.623374Z",
+     "iopub.status.busy": "2023-02-21T12:19:46.621559Z",
+     "iopub.status.idle": "2023-02-21T12:19:46.658735Z",
+     "shell.execute_reply": "2023-02-21T12:19:46.656901Z"
     },
     "papermill": {
-     "duration": 0.044076,
-     "end_time": "2023-02-21T12:14:04.278125",
+     "duration": 0.048467,
+     "end_time": "2023-02-21T12:19:46.661523",
      "exception": false,
-     "start_time": "2023-02-21T12:14:04.234049",
+     "start_time": "2023-02-21T12:19:46.613056",
      "status": "completed"
     },
     "tags": []
@@ -615,19 +615,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "227a4659",
+   "id": "2f8c50d5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:04.293007Z",
-     "iopub.status.busy": "2023-02-21T12:14:04.291490Z",
-     "iopub.status.idle": "2023-02-21T12:14:11.041709Z",
-     "shell.execute_reply": "2023-02-21T12:14:11.040036Z"
+     "iopub.execute_input": "2023-02-21T12:19:46.679681Z",
+     "iopub.status.busy": "2023-02-21T12:19:46.678134Z",
+     "iopub.status.idle": "2023-02-21T12:19:53.482603Z",
+     "shell.execute_reply": "2023-02-21T12:19:53.480773Z"
     },
     "papermill": {
-     "duration": 6.762859,
-     "end_time": "2023-02-21T12:14:11.046495",
+     "duration": 6.81732,
+     "end_time": "2023-02-21T12:19:53.485908",
      "exception": false,
-     "start_time": "2023-02-21T12:14:04.283636",
+     "start_time": "2023-02-21T12:19:46.668588",
      "status": "completed"
     },
     "tags": []
@@ -1055,19 +1055,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "093c44d8",
+   "id": "b7222c6b",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:11.070941Z",
-     "iopub.status.busy": "2023-02-21T12:14:11.068638Z",
-     "iopub.status.idle": "2023-02-21T12:14:11.805455Z",
-     "shell.execute_reply": "2023-02-21T12:14:11.803758Z"
+     "iopub.execute_input": "2023-02-21T12:19:53.506745Z",
+     "iopub.status.busy": "2023-02-21T12:19:53.505273Z",
+     "iopub.status.idle": "2023-02-21T12:19:54.234793Z",
+     "shell.execute_reply": "2023-02-21T12:19:54.233137Z"
     },
     "papermill": {
-     "duration": 0.749695,
-     "end_time": "2023-02-21T12:14:11.808326",
+     "duration": 0.742758,
+     "end_time": "2023-02-21T12:19:54.237794",
      "exception": false,
-     "start_time": "2023-02-21T12:14:11.058631",
+     "start_time": "2023-02-21T12:19:53.495036",
      "status": "completed"
     },
     "tags": []
@@ -1629,19 +1629,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "57fb425f",
+   "id": "d001fd64",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:11.830938Z",
-     "iopub.status.busy": "2023-02-21T12:14:11.829519Z",
-     "iopub.status.idle": "2023-02-21T12:14:12.832364Z",
-     "shell.execute_reply": "2023-02-21T12:14:12.830688Z"
+     "iopub.execute_input": "2023-02-21T12:19:54.263328Z",
+     "iopub.status.busy": "2023-02-21T12:19:54.261773Z",
+     "iopub.status.idle": "2023-02-21T12:19:55.295639Z",
+     "shell.execute_reply": "2023-02-21T12:19:55.293916Z"
     },
     "papermill": {
-     "duration": 1.017986,
-     "end_time": "2023-02-21T12:14:12.835841",
+     "duration": 1.050325,
+     "end_time": "2023-02-21T12:19:55.299044",
      "exception": false,
-     "start_time": "2023-02-21T12:14:11.817855",
+     "start_time": "2023-02-21T12:19:54.248719",
      "status": "completed"
     },
     "tags": []
@@ -1667,19 +1667,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "26292e9e",
+   "id": "498573b8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:14:12.862764Z",
-     "iopub.status.busy": "2023-02-21T12:14:12.861339Z",
-     "iopub.status.idle": "2023-02-21T12:18:03.596322Z",
-     "shell.execute_reply": "2023-02-21T12:18:03.594632Z"
+     "iopub.execute_input": "2023-02-21T12:19:55.327262Z",
+     "iopub.status.busy": "2023-02-21T12:19:55.325763Z",
+     "iopub.status.idle": "2023-02-21T12:23:59.709758Z",
+     "shell.execute_reply": "2023-02-21T12:23:59.707024Z"
     },
     "papermill": {
-     "duration": 230.768246,
-     "end_time": "2023-02-21T12:18:03.616132",
+     "duration": 244.417087,
+     "end_time": "2023-02-21T12:23:59.728788",
      "exception": false,
-     "start_time": "2023-02-21T12:14:12.847886",
+     "start_time": "2023-02-21T12:19:55.311701",
      "status": "completed"
     },
     "tags": []
@@ -1726,19 +1726,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "fc11cc36",
+   "id": "764a747c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2023-02-21T12:18:03.644603Z",
-     "iopub.status.busy": "2023-02-21T12:18:03.643149Z",
-     "iopub.status.idle": "2023-02-21T12:18:03.751576Z",
-     "shell.execute_reply": "2023-02-21T12:18:03.749969Z"
+     "iopub.execute_input": "2023-02-21T12:23:59.757888Z",
+     "iopub.status.busy": "2023-02-21T12:23:59.756304Z",
+     "iopub.status.idle": "2023-02-21T12:23:59.868121Z",
+     "shell.execute_reply": "2023-02-21T12:23:59.865705Z"
     },
     "papermill": {
-     "duration": 0.123879,
-     "end_time": "2023-02-21T12:18:03.753820",
+     "duration": 0.129143,
+     "end_time": "2023-02-21T12:23:59.870636",
      "exception": false,
-     "start_time": "2023-02-21T12:18:03.629941",
+     "start_time": "2023-02-21T12:23:59.741493",
      "status": "completed"
     },
     "tags": []
@@ -1754,12 +1754,12 @@
        "\t<tr><th></th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
        "</thead>\n",
        "<tbody>\n",
-       "\t<tr><th scope=row>1</th><td>13.4</td><td>22.9</td><td>0.6</td><td>6.6</td><td> 9.5</td><td>44</td><td>20</td><td>24</td><td>71</td><td>22</td><td>1007.7</td><td>1007.1</td><td>8</td><td>7</td><td>16.9</td><td>21.8</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>2</th><td> 7.4</td><td>25.1</td><td>0.0</td><td>6.6</td><td>12.3</td><td>44</td><td> 4</td><td>22</td><td>44</td><td>25</td><td>1010.6</td><td>1007.8</td><td>1</td><td>1</td><td>17.2</td><td>24.3</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>3</th><td>12.9</td><td>25.7</td><td>0.0</td><td>7.6</td><td>11.6</td><td>46</td><td>19</td><td>26</td><td>38</td><td>30</td><td>1007.6</td><td>1008.7</td><td>5</td><td>2</td><td>21.0</td><td>23.2</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>4</th><td> 9.2</td><td>28.0</td><td>0.0</td><td>7.0</td><td>11.2</td><td>24</td><td>11</td><td> 9</td><td>45</td><td>16</td><td>1017.6</td><td>1012.8</td><td>1</td><td>1</td><td>18.1</td><td>26.5</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>5</th><td>17.5</td><td>32.3</td><td>1.0</td><td>6.4</td><td> 7.2</td><td>41</td><td> 7</td><td>20</td><td>82</td><td>33</td><td>1010.8</td><td>1006.0</td><td>7</td><td>8</td><td>17.8</td><td>29.7</td><td>2</td></tr>\n",
-       "\t<tr><th scope=row>6</th><td>14.6</td><td>29.7</td><td>0.2</td><td>9.2</td><td>11.5</td><td>56</td><td>19</td><td>24</td><td>55</td><td>23</td><td>1009.2</td><td>1005.4</td><td>2</td><td>1</td><td>20.6</td><td>28.9</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>1</th><td>13.4</td><td>22.9</td><td>0.6</td><td> 5.6</td><td> 5.7</td><td>44</td><td>20</td><td>24</td><td>71</td><td>22</td><td>1007.7</td><td>1007.1</td><td>8</td><td>2</td><td>16.9</td><td>21.8</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>2</th><td> 7.4</td><td>25.1</td><td>0.0</td><td> 1.4</td><td> 8.4</td><td>44</td><td> 4</td><td>22</td><td>44</td><td>25</td><td>1010.6</td><td>1007.8</td><td>1</td><td>3</td><td>17.2</td><td>24.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>3</th><td>12.9</td><td>25.7</td><td>0.0</td><td> 5.4</td><td> 9.9</td><td>46</td><td>19</td><td>26</td><td>38</td><td>30</td><td>1007.6</td><td>1008.7</td><td>1</td><td>2</td><td>21.0</td><td>23.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>4</th><td> 9.2</td><td>28.0</td><td>0.0</td><td> 8.0</td><td> 9.2</td><td>24</td><td>11</td><td> 9</td><td>45</td><td>16</td><td>1017.6</td><td>1012.8</td><td>0</td><td>5</td><td>18.1</td><td>26.5</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>5</th><td>17.5</td><td>32.3</td><td>1.0</td><td>10.2</td><td> 7.4</td><td>41</td><td> 7</td><td>20</td><td>82</td><td>33</td><td>1010.8</td><td>1006.0</td><td>7</td><td>8</td><td>17.8</td><td>29.7</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>6</th><td>14.6</td><td>29.7</td><td>0.2</td><td>13.0</td><td>13.0</td><td>56</td><td>19</td><td>24</td><td>55</td><td>23</td><td>1009.2</td><td>1005.4</td><td>0</td><td>2</td><td>20.6</td><td>28.9</td><td>2</td></tr>\n",
        "</tbody>\n",
        "</table>\n"
       ],
@@ -1769,12 +1769,12 @@
        "  & MinTemp & MaxTemp & Rainfall & Evaporation & Sunshine & WindGustSpeed & WindSpeed9am & WindSpeed3pm & Humidity9am & Humidity3pm & Pressure9am & Pressure3pm & Cloud9am & Cloud3pm & Temp9am & Temp3pm & RainTomorrow\\\\\n",
        "  & <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <int> & <int> & <int> & <int> & <int> & <dbl> & <dbl> & <int> & <int> & <dbl> & <dbl> & <int>\\\\\n",
        "\\hline\n",
-       "\t1 & 13.4 & 22.9 & 0.6 & 6.6 &  9.5 & 44 & 20 & 24 & 71 & 22 & 1007.7 & 1007.1 & 8 & 7 & 16.9 & 21.8 & 2\\\\\n",
-       "\t2 &  7.4 & 25.1 & 0.0 & 6.6 & 12.3 & 44 &  4 & 22 & 44 & 25 & 1010.6 & 1007.8 & 1 & 1 & 17.2 & 24.3 & 2\\\\\n",
-       "\t3 & 12.9 & 25.7 & 0.0 & 7.6 & 11.6 & 46 & 19 & 26 & 38 & 30 & 1007.6 & 1008.7 & 5 & 2 & 21.0 & 23.2 & 2\\\\\n",
-       "\t4 &  9.2 & 28.0 & 0.0 & 7.0 & 11.2 & 24 & 11 &  9 & 45 & 16 & 1017.6 & 1012.8 & 1 & 1 & 18.1 & 26.5 & 2\\\\\n",
-       "\t5 & 17.5 & 32.3 & 1.0 & 6.4 &  7.2 & 41 &  7 & 20 & 82 & 33 & 1010.8 & 1006.0 & 7 & 8 & 17.8 & 29.7 & 2\\\\\n",
-       "\t6 & 14.6 & 29.7 & 0.2 & 9.2 & 11.5 & 56 & 19 & 24 & 55 & 23 & 1009.2 & 1005.4 & 2 & 1 & 20.6 & 28.9 & 2\\\\\n",
+       "\t1 & 13.4 & 22.9 & 0.6 &  5.6 &  5.7 & 44 & 20 & 24 & 71 & 22 & 1007.7 & 1007.1 & 8 & 2 & 16.9 & 21.8 & 2\\\\\n",
+       "\t2 &  7.4 & 25.1 & 0.0 &  1.4 &  8.4 & 44 &  4 & 22 & 44 & 25 & 1010.6 & 1007.8 & 1 & 3 & 17.2 & 24.3 & 2\\\\\n",
+       "\t3 & 12.9 & 25.7 & 0.0 &  5.4 &  9.9 & 46 & 19 & 26 & 38 & 30 & 1007.6 & 1008.7 & 1 & 2 & 21.0 & 23.2 & 2\\\\\n",
+       "\t4 &  9.2 & 28.0 & 0.0 &  8.0 &  9.2 & 24 & 11 &  9 & 45 & 16 & 1017.6 & 1012.8 & 0 & 5 & 18.1 & 26.5 & 2\\\\\n",
+       "\t5 & 17.5 & 32.3 & 1.0 & 10.2 &  7.4 & 41 &  7 & 20 & 82 & 33 & 1010.8 & 1006.0 & 7 & 8 & 17.8 & 29.7 & 2\\\\\n",
+       "\t6 & 14.6 & 29.7 & 0.2 & 13.0 & 13.0 & 56 & 19 & 24 & 55 & 23 & 1009.2 & 1005.4 & 0 & 2 & 20.6 & 28.9 & 2\\\\\n",
        "\\end{tabular}\n"
       ],
       "text/markdown": [
@@ -1783,36 +1783,36 @@
        "\n",
        "| <!--/--> | MinTemp &lt;dbl&gt; | MaxTemp &lt;dbl&gt; | Rainfall &lt;dbl&gt; | Evaporation &lt;dbl&gt; | Sunshine &lt;dbl&gt; | WindGustSpeed &lt;int&gt; | WindSpeed9am &lt;int&gt; | WindSpeed3pm &lt;int&gt; | Humidity9am &lt;int&gt; | Humidity3pm &lt;int&gt; | Pressure9am &lt;dbl&gt; | Pressure3pm &lt;dbl&gt; | Cloud9am &lt;int&gt; | Cloud3pm &lt;int&gt; | Temp9am &lt;dbl&gt; | Temp3pm &lt;dbl&gt; | RainTomorrow &lt;int&gt; |\n",
        "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n",
-       "| 1 | 13.4 | 22.9 | 0.6 | 6.6 |  9.5 | 44 | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | 7 | 16.9 | 21.8 | 2 |\n",
-       "| 2 |  7.4 | 25.1 | 0.0 | 6.6 | 12.3 | 44 |  4 | 22 | 44 | 25 | 1010.6 | 1007.8 | 1 | 1 | 17.2 | 24.3 | 2 |\n",
-       "| 3 | 12.9 | 25.7 | 0.0 | 7.6 | 11.6 | 46 | 19 | 26 | 38 | 30 | 1007.6 | 1008.7 | 5 | 2 | 21.0 | 23.2 | 2 |\n",
-       "| 4 |  9.2 | 28.0 | 0.0 | 7.0 | 11.2 | 24 | 11 |  9 | 45 | 16 | 1017.6 | 1012.8 | 1 | 1 | 18.1 | 26.5 | 2 |\n",
-       "| 5 | 17.5 | 32.3 | 1.0 | 6.4 |  7.2 | 41 |  7 | 20 | 82 | 33 | 1010.8 | 1006.0 | 7 | 8 | 17.8 | 29.7 | 2 |\n",
-       "| 6 | 14.6 | 29.7 | 0.2 | 9.2 | 11.5 | 56 | 19 | 24 | 55 | 23 | 1009.2 | 1005.4 | 2 | 1 | 20.6 | 28.9 | 2 |\n",
+       "| 1 | 13.4 | 22.9 | 0.6 |  5.6 |  5.7 | 44 | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | 2 | 16.9 | 21.8 | 2 |\n",
+       "| 2 |  7.4 | 25.1 | 0.0 |  1.4 |  8.4 | 44 |  4 | 22 | 44 | 25 | 1010.6 | 1007.8 | 1 | 3 | 17.2 | 24.3 | 2 |\n",
+       "| 3 | 12.9 | 25.7 | 0.0 |  5.4 |  9.9 | 46 | 19 | 26 | 38 | 30 | 1007.6 | 1008.7 | 1 | 2 | 21.0 | 23.2 | 2 |\n",
+       "| 4 |  9.2 | 28.0 | 0.0 |  8.0 |  9.2 | 24 | 11 |  9 | 45 | 16 | 1017.6 | 1012.8 | 0 | 5 | 18.1 | 26.5 | 2 |\n",
+       "| 5 | 17.5 | 32.3 | 1.0 | 10.2 |  7.4 | 41 |  7 | 20 | 82 | 33 | 1010.8 | 1006.0 | 7 | 8 | 17.8 | 29.7 | 2 |\n",
+       "| 6 | 14.6 | 29.7 | 0.2 | 13.0 | 13.0 | 56 | 19 | 24 | 55 | 23 | 1009.2 | 1005.4 | 0 | 2 | 20.6 | 28.9 | 2 |\n",
        "\n"
       ],
       "text/plain": [
        "  MinTemp MaxTemp Rainfall Evaporation Sunshine WindGustSpeed WindSpeed9am\n",
-       "1 13.4    22.9    0.6      6.6          9.5     44            20          \n",
-       "2  7.4    25.1    0.0      6.6         12.3     44             4          \n",
-       "3 12.9    25.7    0.0      7.6         11.6     46            19          \n",
-       "4  9.2    28.0    0.0      7.0         11.2     24            11          \n",
-       "5 17.5    32.3    1.0      6.4          7.2     41             7          \n",
-       "6 14.6    29.7    0.2      9.2         11.5     56            19          \n",
+       "1 13.4    22.9    0.6       5.6         5.7     44            20          \n",
+       "2  7.4    25.1    0.0       1.4         8.4     44             4          \n",
+       "3 12.9    25.7    0.0       5.4         9.9     46            19          \n",
+       "4  9.2    28.0    0.0       8.0         9.2     24            11          \n",
+       "5 17.5    32.3    1.0      10.2         7.4     41             7          \n",
+       "6 14.6    29.7    0.2      13.0        13.0     56            19          \n",
        "  WindSpeed3pm Humidity9am Humidity3pm Pressure9am Pressure3pm Cloud9am\n",
        "1 24           71          22          1007.7      1007.1      8       \n",
        "2 22           44          25          1010.6      1007.8      1       \n",
-       "3 26           38          30          1007.6      1008.7      5       \n",
-       "4  9           45          16          1017.6      1012.8      1       \n",
+       "3 26           38          30          1007.6      1008.7      1       \n",
+       "4  9           45          16          1017.6      1012.8      0       \n",
        "5 20           82          33          1010.8      1006.0      7       \n",
-       "6 24           55          23          1009.2      1005.4      2       \n",
+       "6 24           55          23          1009.2      1005.4      0       \n",
        "  Cloud3pm Temp9am Temp3pm RainTomorrow\n",
-       "1 7        16.9    21.8    2           \n",
-       "2 1        17.2    24.3    2           \n",
+       "1 2        16.9    21.8    2           \n",
+       "2 3        17.2    24.3    2           \n",
        "3 2        21.0    23.2    2           \n",
-       "4 1        18.1    26.5    2           \n",
+       "4 5        18.1    26.5    2           \n",
        "5 8        17.8    29.7    2           \n",
-       "6 1        20.6    28.9    2           "
+       "6 2        20.6    28.9    2           "
       ]
      },
      "metadata": {},
@@ -1825,14 +1825,184 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 16,
+   "id": "2b10286c",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-21T12:23:59.899176Z",
+     "iopub.status.busy": "2023-02-21T12:23:59.897520Z",
+     "iopub.status.idle": "2023-02-21T12:24:00.009881Z",
+     "shell.execute_reply": "2023-02-21T12:24:00.008011Z"
+    },
+    "papermill": {
+     "duration": 0.129187,
+     "end_time": "2023-02-21T12:24:00.012295",
+     "exception": false,
+     "start_time": "2023-02-21T12:23:59.883108",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/html": [
+       "<table class=\"dataframe\">\n",
+       "<caption>A data.frame: 6 × 17</caption>\n",
+       "<thead>\n",
+       "\t<tr><th></th><th scope=col>MinTemp</th><th scope=col>MaxTemp</th><th scope=col>Rainfall</th><th scope=col>Evaporation</th><th scope=col>Sunshine</th><th scope=col>WindGustSpeed</th><th scope=col>WindSpeed9am</th><th scope=col>WindSpeed3pm</th><th scope=col>Humidity9am</th><th scope=col>Humidity3pm</th><th scope=col>Pressure9am</th><th scope=col>Pressure3pm</th><th scope=col>Cloud9am</th><th scope=col>Cloud3pm</th><th scope=col>Temp9am</th><th scope=col>Temp3pm</th><th scope=col>RainTomorrow</th></tr>\n",
+       "\t<tr><th></th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;int&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;dbl&gt;</th><th scope=col>&lt;int&gt;</th></tr>\n",
+       "</thead>\n",
+       "<tbody>\n",
+       "\t<tr><th scope=row>1</th><td>13.4</td><td>22.9</td><td>0.6</td><td> 3.0</td><td> 8.6</td><td>44</td><td>20</td><td>24</td><td>71</td><td>22</td><td>1007.7</td><td>1007.1</td><td>8</td><td>7</td><td>16.9</td><td>21.8</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>2</th><td> 7.4</td><td>25.1</td><td>0.0</td><td> 5.2</td><td>13.1</td><td>44</td><td> 4</td><td>22</td><td>44</td><td>25</td><td>1010.6</td><td>1007.8</td><td>0</td><td>2</td><td>17.2</td><td>24.3</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>3</th><td>12.9</td><td>25.7</td><td>0.0</td><td> 8.2</td><td> 9.9</td><td>46</td><td>19</td><td>26</td><td>38</td><td>30</td><td>1007.6</td><td>1008.7</td><td>1</td><td>2</td><td>21.0</td><td>23.2</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>4</th><td> 9.2</td><td>28.0</td><td>0.0</td><td> 5.4</td><td> 9.9</td><td>24</td><td>11</td><td> 9</td><td>45</td><td>16</td><td>1017.6</td><td>1012.8</td><td>1</td><td>2</td><td>18.1</td><td>26.5</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>5</th><td>17.5</td><td>32.3</td><td>1.0</td><td> 7.6</td><td> 8.8</td><td>41</td><td> 7</td><td>20</td><td>82</td><td>33</td><td>1010.8</td><td>1006.0</td><td>7</td><td>8</td><td>17.8</td><td>29.7</td><td>2</td></tr>\n",
+       "\t<tr><th scope=row>6</th><td>14.6</td><td>29.7</td><td>0.2</td><td>10.8</td><td>10.7</td><td>56</td><td>19</td><td>24</td><td>55</td><td>23</td><td>1009.2</td><td>1005.4</td><td>2</td><td>6</td><td>20.6</td><td>28.9</td><td>2</td></tr>\n",
+       "</tbody>\n",
+       "</table>\n"
+      ],
+      "text/latex": [
+       "A data.frame: 6 × 17\n",
+       "\\begin{tabular}{r|lllllllllllllllll}\n",
+       "  & MinTemp & MaxTemp & Rainfall & Evaporation & Sunshine & WindGustSpeed & WindSpeed9am & WindSpeed3pm & Humidity9am & Humidity3pm & Pressure9am & Pressure3pm & Cloud9am & Cloud3pm & Temp9am & Temp3pm & RainTomorrow\\\\\n",
+       "  & <dbl> & <dbl> & <dbl> & <dbl> & <dbl> & <int> & <int> & <int> & <int> & <int> & <dbl> & <dbl> & <int> & <int> & <dbl> & <dbl> & <int>\\\\\n",
+       "\\hline\n",
+       "\t1 & 13.4 & 22.9 & 0.6 &  3.0 &  8.6 & 44 & 20 & 24 & 71 & 22 & 1007.7 & 1007.1 & 8 & 7 & 16.9 & 21.8 & 2\\\\\n",
+       "\t2 &  7.4 & 25.1 & 0.0 &  5.2 & 13.1 & 44 &  4 & 22 & 44 & 25 & 1010.6 & 1007.8 & 0 & 2 & 17.2 & 24.3 & 2\\\\\n",
+       "\t3 & 12.9 & 25.7 & 0.0 &  8.2 &  9.9 & 46 & 19 & 26 & 38 & 30 & 1007.6 & 1008.7 & 1 & 2 & 21.0 & 23.2 & 2\\\\\n",
+       "\t4 &  9.2 & 28.0 & 0.0 &  5.4 &  9.9 & 24 & 11 &  9 & 45 & 16 & 1017.6 & 1012.8 & 1 & 2 & 18.1 & 26.5 & 2\\\\\n",
+       "\t5 & 17.5 & 32.3 & 1.0 &  7.6 &  8.8 & 41 &  7 & 20 & 82 & 33 & 1010.8 & 1006.0 & 7 & 8 & 17.8 & 29.7 & 2\\\\\n",
+       "\t6 & 14.6 & 29.7 & 0.2 & 10.8 & 10.7 & 56 & 19 & 24 & 55 & 23 & 1009.2 & 1005.4 & 2 & 6 & 20.6 & 28.9 & 2\\\\\n",
+       "\\end{tabular}\n"
+      ],
+      "text/markdown": [
+       "\n",
+       "A data.frame: 6 × 17\n",
+       "\n",
+       "| <!--/--> | MinTemp &lt;dbl&gt; | MaxTemp &lt;dbl&gt; | Rainfall &lt;dbl&gt; | Evaporation &lt;dbl&gt; | Sunshine &lt;dbl&gt; | WindGustSpeed &lt;int&gt; | WindSpeed9am &lt;int&gt; | WindSpeed3pm &lt;int&gt; | Humidity9am &lt;int&gt; | Humidity3pm &lt;int&gt; | Pressure9am &lt;dbl&gt; | Pressure3pm &lt;dbl&gt; | Cloud9am &lt;int&gt; | Cloud3pm &lt;int&gt; | Temp9am &lt;dbl&gt; | Temp3pm &lt;dbl&gt; | RainTomorrow &lt;int&gt; |\n",
+       "|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|\n",
+       "| 1 | 13.4 | 22.9 | 0.6 |  3.0 |  8.6 | 44 | 20 | 24 | 71 | 22 | 1007.7 | 1007.1 | 8 | 7 | 16.9 | 21.8 | 2 |\n",
+       "| 2 |  7.4 | 25.1 | 0.0 |  5.2 | 13.1 | 44 |  4 | 22 | 44 | 25 | 1010.6 | 1007.8 | 0 | 2 | 17.2 | 24.3 | 2 |\n",
+       "| 3 | 12.9 | 25.7 | 0.0 |  8.2 |  9.9 | 46 | 19 | 26 | 38 | 30 | 1007.6 | 1008.7 | 1 | 2 | 21.0 | 23.2 | 2 |\n",
+       "| 4 |  9.2 | 28.0 | 0.0 |  5.4 |  9.9 | 24 | 11 |  9 | 45 | 16 | 1017.6 | 1012.8 | 1 | 2 | 18.1 | 26.5 | 2 |\n",
+       "| 5 | 17.5 | 32.3 | 1.0 |  7.6 |  8.8 | 41 |  7 | 20 | 82 | 33 | 1010.8 | 1006.0 | 7 | 8 | 17.8 | 29.7 | 2 |\n",
+       "| 6 | 14.6 | 29.7 | 0.2 | 10.8 | 10.7 | 56 | 19 | 24 | 55 | 23 | 1009.2 | 1005.4 | 2 | 6 | 20.6 | 28.9 | 2 |\n",
+       "\n"
+      ],
+      "text/plain": [
+       "  MinTemp MaxTemp Rainfall Evaporation Sunshine WindGustSpeed WindSpeed9am\n",
+       "1 13.4    22.9    0.6       3.0         8.6     44            20          \n",
+       "2  7.4    25.1    0.0       5.2        13.1     44             4          \n",
+       "3 12.9    25.7    0.0       8.2         9.9     46            19          \n",
+       "4  9.2    28.0    0.0       5.4         9.9     24            11          \n",
+       "5 17.5    32.3    1.0       7.6         8.8     41             7          \n",
+       "6 14.6    29.7    0.2      10.8        10.7     56            19          \n",
+       "  WindSpeed3pm Humidity9am Humidity3pm Pressure9am Pressure3pm Cloud9am\n",
+       "1 24           71          22          1007.7      1007.1      8       \n",
+       "2 22           44          25          1010.6      1007.8      0       \n",
+       "3 26           38          30          1007.6      1008.7      1       \n",
+       "4  9           45          16          1017.6      1012.8      1       \n",
+       "5 20           82          33          1010.8      1006.0      7       \n",
+       "6 24           55          23          1009.2      1005.4      2       \n",
+       "  Cloud3pm Temp9am Temp3pm RainTomorrow\n",
+       "1 7        16.9    21.8    2           \n",
+       "2 2        17.2    24.3    2           \n",
+       "3 2        21.0    23.2    2           \n",
+       "4 2        18.1    26.5    2           \n",
+       "5 8        17.8    29.7    2           \n",
+       "6 6        20.6    28.9    2           "
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "head(complete(imputer, 2))"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "e270388c",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-21T12:24:00.043626Z",
+     "iopub.status.busy": "2023-02-21T12:24:00.041798Z",
+     "iopub.status.idle": "2023-02-21T12:24:00.059609Z",
+     "shell.execute_reply": "2023-02-21T12:24:00.057803Z"
+    },
+    "papermill": {
+     "duration": 0.036158,
+     "end_time": "2023-02-21T12:24:00.062068",
+     "exception": false,
+     "start_time": "2023-02-21T12:24:00.025910",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "NULL"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "imputer$imputer$Sunshine"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 18,
+   "id": "84dcf957",
+   "metadata": {
+    "execution": {
+     "iopub.execute_input": "2023-02-21T12:24:00.089818Z",
+     "iopub.status.busy": "2023-02-21T12:24:00.088318Z",
+     "iopub.status.idle": "2023-02-21T12:24:00.106721Z",
+     "shell.execute_reply": "2023-02-21T12:24:00.104557Z"
+    },
+    "papermill": {
+     "duration": 0.035273,
+     "end_time": "2023-02-21T12:24:00.109609",
+     "exception": false,
+     "start_time": "2023-02-21T12:24:00.074336",
+     "status": "completed"
+    },
+    "tags": []
+   },
+   "outputs": [
+    {
+     "data": {
+      "text/plain": [
+       "NULL"
+      ]
+     },
+     "metadata": {},
+     "output_type": "display_data"
+    }
+   ],
+   "source": [
+    "imputer$imputer$Evaporation"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
-   "id": "3b46254e",
+   "id": "78577b59",
    "metadata": {
     "papermill": {
-     "duration": 0.011268,
-     "end_time": "2023-02-21T12:18:03.776355",
+     "duration": 0.012595,
+     "end_time": "2023-02-21T12:24:00.134357",
      "exception": false,
-     "start_time": "2023-02-21T12:18:03.765087",
+     "start_time": "2023-02-21T12:24:00.121762",
      "status": "completed"
     },
     "tags": []
@@ -1857,14 +2027,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 247.30202,
-   "end_time": "2023-02-21T12:18:04.009192",
+   "duration": 261.735959,
+   "end_time": "2023-02-21T12:24:00.270351",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2023-02-21T12:13:56.707172",
+   "start_time": "2023-02-21T12:19:38.534392",
    "version": "2.4.0"
   }
  },
